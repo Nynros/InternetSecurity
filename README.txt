@@ -40,13 +40,17 @@ Topic: VPN (Virtual Private Network)
     Get Proton for 9,99 / month https://protonvpn.com/pricing?ref=home
     Install and run the ProtonVPN Client on your PC
     Go to your downloads folder and double click the protonvpn.exe installation file
-    If a new window pops up asking “Do you want to allow this app to make changes to your device?”, click ‘Yes’
-    If installing for the first time, the OpenVPN TAP adapter installation will appear. In the window, click ‘Next >
-    During the installation process, installation of Windows .NET might be required as well. If prompted, follow the instructions to install Windows .NET as well.
-    Click I Agree and then Next>
+    If a new window pops up asking “Do you want to allow this app to make changes to your device?”
+    Click ‘Yes’
+    If installing for the first time, the OpenVPN TAP adapter installation will appear. 
+    In the window, click ‘Next
+    During the installation process, installation of Windows .NET might be required as well. 
+    If prompted, follow the instructions to install Windows .NET as well.
+    Click I Agree and then Next
     Finally click Install
     Once the installer window is open, click install on the first screen. The installer will proceed with the process automatically
-    Once installed, the Proton VPN application will start, and appear in a new window. A shortcut to the application will also appear on your desktop for the ease of access.
+    Once installed, the Proton VPN application will start, and appear in a new window. 
+    A shortcut to the application will also appear on your desktop for the ease of access.
 
 Topic: Password
     If you don't know how good your passwords are 
