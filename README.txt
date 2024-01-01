@@ -10,7 +10,7 @@ Topic: DNS Settings
     Reboot your router and check the DNS settings
 
 Topic: Internet Browser 
-    Use the Brave-Browser, it's privacy focused (https.//brave.com)
+    Use the Brave-Browser, it's privacy focused (https://brave.com)
     Install and make the Brave-Browser default on your pc
     Install and make the Brave-Browser default on smartphone/tablet (iOS and Android Apps availiable)
     Change the following settings 
