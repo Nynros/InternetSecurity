@@ -1,7 +1,7 @@
 # InternetSecurity
 
 Topic: DNS Settings
-    Change the DNS settings on your internet-router to Quad9, its privacy focused (https://www.quad9.net/)
+    Change the DNS settings on your internet-router to Quad9, it's privacy focused (https://www.quad9.net/)
     Find the IP-adress on the back at your router (mostly https://192.168.0.1)
     Find the Name of the Admin-User on the back of your router
     Find the Password on the back of your router
@@ -10,7 +10,7 @@ Topic: DNS Settings
     Reboot your router and check the DNS settings
 
 Topic: Internet Browser 
-    Use the Brave-Browser, its privacy focused (https.//brave.com)
+    Use the Brave-Browser, it's privacy focused (https.//brave.com)
     Install and make the Brave-Browser default on your pc
     Install and make the Brave-Browser default on smartphone/tablet (iOS and Android Apps availiable)
     Change the following settings 
