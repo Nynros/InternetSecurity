@@ -1,13 +1,16 @@
 # InternetSecurity
 
 Topic: DNS Settings
-    Change the DNS settings on your internet-router to Quad9 (https://www.quad9.net/)
-    Router -> DNS -> Primary DNS    9.9.9.9
-    Router -> DNS -> Secondary DNS  149.112.112.112
+    Change the DNS settings on your internet-router to Quad9, its privacy focused (https://www.quad9.net/)
+    Find the IP-adress on the back at your router (mostly https://192.168.0.1)
+    Find the Name of the Admin-User on the back of your router
+    Find the Password on the back of your router
+    Webbrowser -> Router-Adress -> DNS -> Primary DNS    9.9.9.9
+    Webbrowser -> Router-Adress -> DNS -> Secondary DNS  149.112.112.112
     Reboot your router and check the DNS settings
 
 Topic: Internet Browser 
-    Use the Brave-Browser (https.//brave.com), its privacy focused
+    Use the Brave-Browser, its privacy focused (https.//brave.com)
     Install and make the Brave-Browser default on your pc
     Install and make the Brave-Browser default on smartphone/tablet (iOS and Android Apps availiable)
     Change the following settings 
@@ -22,19 +25,19 @@ Topic: Internet Browser
     Restart the Brave-Browser and check your changed settings
 
 Topic: Speedtest Internet
-    Choose https://www.speedtest.net/
-    Run the browser-/mobilemeasurement on your pc/smartphone
+    Choose Speedtest by Ookla https://www.speedtest.net/
+    Run the the Speedtest
+    Choose SpeedOfMe (https://speedof.me/)
+    Run the the Speedtest
+    Compare both results
     Ping time should be under 50 milliseconds (ms)
-    Download-/uploadrate should be over 80% of your payed internet connection
+    Download-/Uploadrate should be over 80% of your payed internet connection
     Otherwise update your router and windows pc to the latest level
-    Rerun the https://www.speedtest.net/
-    Open the windows task manager and deinstall programs and other stuff you installed back in the days and don't need anymore (housekeeping)
-    Reboot PC
-    Windows Defender is good, you don't need another virus-scanner like avira, mcafee, etc
-    Open the windows task manager again and check if there's still any stuff that uses your internet-connection
-    Reboot your PC
-    Rerun the https://www.breitbandmessung.de/
+    Rerun both Speedtests
     Contact your internet-Provider if the messurements are still bad 
+
+Topic: Virus-Defender
+    Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc
 
 Topic: VPN (Virtual Private Network)
     Get Proton for 9,99 / month https://protonvpn.com/pricing?ref=home
@@ -59,8 +62,8 @@ Topic: Password
     Paste your password (exept the last digit) in the above field
     If the "Entropy" value is under "100" change your password
     Long passwords are not good passwords, complexity is key. Try "Password0123456789" in the above field and check the "Entropy" value 
-    Use a password manager like keepassxc https://keepassxc.org/ or ProtonPass
-    Use a different password for every account (or let keepassxc https://keepassxc.org/ do the job)
-    Use two-factor authentication (2FA) if avaliable https://authy.com/
-    Use a Yubi-key with NFC https://www.yubico.com/
+    Use a password manager like keepassxc (https://keepassxc.org/) or ProtonPass (https://proton.me/pass)
+    Use a different password for every account 
+    Use two-factor authentication (2FA) if avaliable (https://authy.com/)
+    Use a Yubi-key with NFC (https://www.yubico.com)
     Buy another Yubi-key with NFC in case of loosing the first one
