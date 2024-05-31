@@ -39,6 +39,15 @@ Otherwise update your router and windows pc to the latest level
 Rerun both Speedtests
 Contact your internet-Provider if the messurements are still bad
 
+
+Topic: Latency
+--------------------
+If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: 
+A - Good
+B - Acceptable
+C - Not Acceptable (Call your ISP)
+https://www.waveform.com/tools/bufferbloat
+
 Topic: Passwords
 --------------------
 If you don't know how good your passwords are
