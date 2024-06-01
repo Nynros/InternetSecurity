@@ -41,7 +41,10 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 --------------------
-If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: 
+If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. 
+You can check that with the follwing link: 
+
+Test-Site https://www.waveform.com/tools/bufferbloat
 
 Less than 5 ms latency increase - A+
 Less than 30 ms latency increase - A
@@ -52,8 +55,6 @@ Less than 400 ms latency increase - D
 
 The easiest and quickest way for most people to fix bufferbloat is to upgrade their WiFi router. A small number of modern, high-end routers 
 come with a feature called "Smart Queue Management" – also known as SQM. 
-
-Test-Site https://www.waveform.com/tools/bufferbloat
 
 Topic: Passwords
 --------------------
