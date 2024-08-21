@@ -69,7 +69,7 @@ Use a password manager like v (https://proton.me/pass)
 Use the password manager as a password generator (20 characters with special characters)
 Use different passwords for every account
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
-Use a Yubi-Key with NFC (https://www.yubico.com)
+Use a Yubi-Key with FIPS/NFC (https://www.yubico.com/products/yubikey-fips/)
 Buy another Yubi-Key with NFC in case of loosing the first one
 Slot 1 - Password generated for your Windows Account from ProtonPass
 Slot 2 - Password generated for your Internetrouter Account from ProtonPass
