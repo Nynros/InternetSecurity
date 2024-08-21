@@ -118,9 +118,14 @@ iOS and Android Apps for ProtonCalendar avaliable
 
 Topic : SSH-Keys (Linux-Users)
 ------------------------------
-Generate valid ssh-keys with or without a yubikey 
+Generate valid ssh-keys with or without a yubikey and distribute the generated keys with #ssh-copy-id to your target-servers
 # ssh-keygen -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" (without a yubikey)
 # ssh-keygen -t ed25519-sk -f /$HOME/.ssh/id_ed25519-sk -q -N "" (with a yubikey, generates also a pin)
+
+Topic : Disable direct root-access (Linux-Users)
+------------------------------
+Activate the "#PermitRootLogin no" to "PermitRootLogin no" in the /etc/ssh/sshd_config
+Restart the sshd via systemctl or reboot the system
 
 Topic : Generate valid Passwords with OpenSSL (Linux-Users)
 ------------------------------
