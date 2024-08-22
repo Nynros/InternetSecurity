@@ -121,6 +121,9 @@ Generate valid ssh-keys with or without a yubikey and distribute the generated k
 # ssh-keygen -a 31415 -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" (without a yubikey)
 # ssh-keygen -a 31415 -t ed25519-sk -O resident -O verify-required -f /$HOME/.ssh/id_ed25519-sk -q -N "" (with a yubikey, generates also a pin)
 
+# ssh-keygen -a 31415 -t edcdsa -b 256 -f /$HOME/.ssh/id_edcdsa -q -N "" (without a yubikey)
+# ssh-keygen -a 31415 -t edcdsa-sk -b 256 -O resident -O verify-required -f /$HOME/.ssh/id_edcdsa-sk -q -N "" (with a yubikey, generates also a pin)
+
 Topic : Disable direct root-access (Linux-Users)
 ------------------------------
 Activate the "#PermitRootLogin no" to "PermitRootLogin no" in the /etc/ssh/sshd_config
