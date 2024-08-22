@@ -100,11 +100,10 @@ Windows Defender is good. You don't need another virus-scanner like Avira, McAfe
 
 Topic: Backup & Restore Data
 ------------------------------
-Buy a USB Drive (https://www.westerndigital.com/de-de/products/portable-drives/wd-black-p10-game-drive-usb-3-2-hdd?sku=WDBA2W0020BBK-WES1)
-Copy Your Data to the USB-Drive
+Buy a good USB Drive like a WD_BLACK P10 
+Copy your data frequently to the USB-Drive
 Store the USB Drive in a safe place
-Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me/drive
-iOS and Android Apps ProtonDrive avaliable
+Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me/drive)
 
 Topic: Mail
 ------------------------------
