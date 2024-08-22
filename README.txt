@@ -119,8 +119,8 @@ iOS and Android Apps for ProtonCalendar avaliable
 Topic : SSH-Keys (Linux-Users)
 ------------------------------
 Generate valid ssh-keys with or without a yubikey and distribute the generated keys with #ssh-copy-id to your target-servers
-# ssh-keygen -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" (without a yubikey)
-# ssh-keygen -t ed25519-sk -f /$HOME/.ssh/id_ed25519-sk -q -N "" (with a yubikey, generates also a pin)
+# ssh-keygen -a 31415 -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" (without a yubikey)
+# ssh-keygen -a 31415 -t ed25519-sk -O resident -O verify-required -f /$HOME/.ssh/id_ed25519-sk -q -N "" (with a yubikey, generates also a pin)
 
 Topic : Disable direct root-access (Linux-Users)
 ------------------------------
