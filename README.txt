@@ -8,7 +8,6 @@ Find the Name of the Admin-User on the back of your router
 Find the Password on the back of your router
 Webbrowser -> Router-Adress -> DNS -> Primary Secondary DNS 9.9.9.9 (Quad9)
 Webbrowser -> Router-Adress -> DNS -> Secondary DNS 149.112.112.112 (Quad9)
-Enter 45.90.30.0 as Alternate DNS, then select On (manual template) and enter https://dns.nextdns.io/7af64b.
 
 Reboot your router and check the DNS settings
 Visit "https://dnsleaktest.com/results.html" via a browser and run a "Standard Test" to check your actual DNS Server
