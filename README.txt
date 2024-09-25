@@ -10,7 +10,7 @@ Webbrowser -> Router-Adress -> DNS -> Primary Secondary DNS 176.9.93.198 (dnsfor
 Webbrowser -> Router-Adress -> DNS -> Secondary DNS 176.9.1.117 (dnsforge.de)
 
 Reboot your router and check the DNS settings
-Visit "https://dnsleaktest.com/results.html" via a browser and run a "Standard Test" to check your actual DNS Server
+Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
 
 Topic: Internet Browser
 ------------------------------
