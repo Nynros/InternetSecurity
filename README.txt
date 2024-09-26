@@ -10,7 +10,7 @@ Webbrowser -> Router-Adress -> DNS -> Primary DNS 9.9.9.9 (Quad9)
 Webbrowser -> Router-Adress -> DNS -> Secondary DNS 149.112.112.112 (Quad9)
 
 Reboot your router and check the DNS settings
-Visit https://on.quad9.net/ via a browser to check your actual DNS Server
+Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
 
 Topic: Internet Browser
