@@ -21,6 +21,7 @@ Install and make the Brave-Browser default on smartphone/tablet (iOS and Android
 Shields > Trackers & ads blocking > Shields > Agressive 
 Shields > Upgrade connections to HTTPS >  Strict
 Shields > Forget me when I close this site -> Checked -> Save
+Shields > Content filtering -> Update list (frequently)
 Shields > Content filtering -> Filter Lists -> EasyList -> All of it -> Save
 Shields > Content filtering -> Filter Lists -> Fanboy -> All of it -> Save
 Shields > Content filtering -> Filter Lists -> Youtube -> All of it -> Save
