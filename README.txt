@@ -147,7 +147,7 @@ Ciphers aes256-ctr,aes192-ctr,aes128-ctr
 HostKeyAlgorithms ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521
 KexAlgorithms sntrup761x25519-sha512@openssh.com,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521
 MACs hmac-sha2-512,hmac-sha2-256
-MaxAuthTries 6
+MaxAuthTries 3
 MaxSessions 10
 PasswordAuthentication yes
 ChallengeResponseAuthentication no
