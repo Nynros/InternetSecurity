@@ -129,17 +129,35 @@ iOS and Android Apps for ProtonCalendar avaliable
 Topic : SSH-Keys (Linux-Users)
 ------------------------------
 Generate valid ssh-keys with or without a yubikey and distribute the generated keys with #ssh-copy-id to your target-servers
-# ssh-keygen -a 31415 -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" (without a yubikey)
-# ssh-keygen -a 31415 -t ed25519-sk -O resident -O verify-required -f /$HOME/.ssh/id_ed25519-sk -q -N "" (with a yubikey, generates also a pin)
-
-# ssh-keygen -a 31415 -t edcdsa -b 256 -f /$HOME/.ssh/id_edcdsa -q -N "" (without a yubikey)
-# ssh-keygen -a 31415 -t edcdsa-sk -b 256 -O resident -O verify-required -f /$HOME/.ssh/id_edcdsa-sk -q -N "" (with a yubikey, generates also a pin)
-
-Topic : Disable direct root-access (Linux-Users)
-------------------------------
-Activate the "#PermitRootLogin no" to "PermitRootLogin no" in the /etc/ssh/sshd_config
-Restart the sshd via systemctl or reboot the system
+# ssh-keygen -a 31415 -t ed25519 -f /$HOME/.ssh/id_ed25519 -q -N "" 
+# ssh-keygen -a 31415 -t edcdsa -b 256 -f /$HOME/.ssh/id_edcdsa -q -N ""
 
 Topic : Generate valid Passwords with OpenSSL (Linux-Users)
 ------------------------------
 # openssl rand -base64 20
+
+Topic : Some useful settings /etc/ssh/sshd_config (Linux)
+------------------------------
+Port 22
+Protocol 2
+AddressFamily any
+HostKey /etc/ssh/ssh_host_ecdsa_key
+HostKey /etc/ssh/ssh_host_ed25519_key
+Ciphers aes256-ctr,aes192-ctr,aes128-ctr
+HostKeyAlgorithms ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521
+KexAlgorithms sntrup761x25519-sha512@openssh.com,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521
+MACs hmac-sha2-512,hmac-sha2-256
+MaxAuthTries 6
+MaxSessions 10
+PasswordAuthentication yes
+ChallengeResponseAuthentication no
+AllowAgentForwarding no
+AllowTcpForwarding no
+X11Forwarding no
+PrintMotd no
+PermitRootLogin no
+PermitUserEnvironment no
+LoginGraceTime 1m
+StrictModes yes
+
+Restart the sshd via systemctl 
