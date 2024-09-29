@@ -6,8 +6,8 @@ Change the DNS settings on your internet-router to NextDNS/Quad9, it's privacy f
 Find the IP-adress on the back at your router (https://fritz.box or https://192.168.0.1)
 Find the Name of the Admin-User on the back of your router
 Find the Password on the back of your router
-Webbrowser -> Router-Adress -> DNS -> Primary DNS 9.9.9.9 (Quad9)
-Webbrowser -> Router-Adress -> DNS -> Secondary DNS 149.112.112.112 (Quad9)
+Webbrowser -> Router-Adress -> DNS -> Primary DNS 9.9.9.9 (Quad9 Primary DNS Server)
+Webbrowser -> Router-Adress -> DNS -> Secondary DNS 149.112.112.112 (Quad9 Secondary DNS Server)
 
 Reboot your router and check the DNS settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
