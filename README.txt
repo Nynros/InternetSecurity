@@ -34,13 +34,7 @@ Search Engine -> Private Window -> Brave
 Settings -> Sync -> Manage your synced devices > Sync Settings > Add your devices
 Settings -> Sync -> Manage your synced devices > Sync Settings > Sync everything
 Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
-
 Restart the Brave-Browser and check your changed settings
-
-Topic: Multi-factor authentication (MFA; two-factor authentication, or 2FA)
-------------------------------
-Visit the Authy side for all your 2FA needs, it works 24/7 
-https://authy.com/
 
 Topic: Speedtest Internet
 ------------------------------
@@ -90,6 +84,11 @@ Slot 1 - Password generated for your Windows Account from ProtonPass
 Slot 2 - Password generated for your Internetrouter Account from ProtonPass
 Clone the frist Yubi-Key to the second Yubi-Key
 Store the second Yubi-Key in a safe place
+
+Topic: Multi-factor authentication (MFA; two-factor authentication, or 2FA)
+------------------------------
+Visit the Authy side for all your 2FA needs, it works 24/7 
+https://authy.com/
 
 Topic: VPN (Virtual Private Network)
 ------------------------------
