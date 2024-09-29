@@ -52,8 +52,7 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 ------------------------------
-If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. 
-You can check that with the follwing link: 
+If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: 
 
 Test-Site https://www.waveform.com/tools/bufferbloat
 
