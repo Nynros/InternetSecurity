@@ -74,7 +74,7 @@ Paste your password (exept the last digit) in the above field
 If the "Entropy" value is under "100" change your password
 Long passwords are not good passwords, complexity is key.
 Try "Password0123456789" in the above field and check the "Entropy" value
-Use a password manager like v (https://proton.me/pass)
+Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
 Use the password manager as a password generator (20 characters with special characters)
 Use different passwords for every account
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
@@ -84,11 +84,6 @@ Slot 1 - Password generated for your Windows Account from ProtonPass
 Slot 2 - Password generated for your Internetrouter Account from ProtonPass
 Clone the frist Yubi-Key to the second Yubi-Key
 Store the second Yubi-Key in a safe place
-
-Topic: Multi-factor authentication (MFA; two-factor authentication, or 2FA)
-------------------------------
-Visit the Authy side for all your 2FA needs, it works 24/7 
-https://authy.com/
 
 Topic: VPN (Virtual Private Network)
 ------------------------------
