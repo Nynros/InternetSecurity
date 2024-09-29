@@ -37,6 +37,11 @@ Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you'
 
 Restart the Brave-Browser and check your changed settings
 
+Topic: Multi-factor authentication (MFA; two-factor authentication, or 2FA)
+------------------------------
+Visit the Authy side for all your 2FA needs, it works 24/7 
+https://authy.com/
+
 Topic: Speedtest Internet
 ------------------------------
 Choose Speedtest by Ookla (https://www.speedtest.net/)
