@@ -18,15 +18,20 @@ Topic: Internet Browser
 Use the Brave-Browser, it's privacy focused (https://brave.com)
 Install and make the Brave-Browser default on your pc
 Install and make the Brave-Browser default on smartphone/tablet (iOS and Android Apps availiable)
-Change the following settings
+Shields > Trackers & ads blocking > Shields > Agressive 
+Shields > Upgrade connections to HTTPS >  Strict
 Shields > Forget me when I close this site -> Checked -> Save
 Shields > Content filtering -> Filter Lists -> EasyList -> All of it -> Save
 Shields > Content filtering -> Filter Lists -> Fanboy -> All of it -> Save
+Shields > Content filtering -> Filter Lists -> Youtube -> All of it -> Save
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> All Time -> Clear Data
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> Advanced-> All of it -> Clear Data
 Privacy and security -> Clear browsing data -> On exit -> All of it -> Save
+Privacy and security -> Data collection  -> Disable all
 Search Engine -> Normal Window -> Brave
 Search Engine -> Private Window -> Brave
+Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
+
 Restart the Brave-Browser and check your changed settings
 
 Topic: Speedtest Internet
