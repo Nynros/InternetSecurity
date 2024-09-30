@@ -2,7 +2,7 @@
 
 Topic: DNS Settings
 ------------------------------
-Change the DNS settings on your internet-router to NextDNS/Quad9, it's privacy focused (https://www.quad9.net/)
+Change the DNS settings on your internet-router to Quad9, it's privacy focused (https://www.quad9.net/)
 Find the IP-adress on the back at your router (https://fritz.box or https://192.168.0.1)
 Find the Name of the Admin-User on the back of your router
 Find the Password on the back of your router
