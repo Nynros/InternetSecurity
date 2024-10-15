@@ -32,6 +32,7 @@ Shields > Social media blocking > Disable all > Save
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> All Time -> Clear Data
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> Advanced-> All of it -> Clear Data
 Privacy and security -> Clear browsing data -> On exit -> All of it -> Save
+Privacy and security -> Tor windows -> Disable all
 Privacy and security -> Data collection  -> Disable all
 Search Engine -> Normal Window -> Brave
 Search Engine -> Private Window -> Brave
