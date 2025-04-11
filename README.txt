@@ -46,11 +46,17 @@ Topic: WIFI (WLAN-Router)
 Enable WPA2/3 Security on your WLAN-Router if possible
 Enable 2FA on your WLAN-Router if possible
 Enable Firewall on your WLAN-Router if possible
-Use A VPN (Wireguard on your router) on your WLAN-Router if possible
+Use A VPN (Wireguard) on your WLAN-Router if possible
 Using MAC Filtering on your WLAN-Router if possible
+Disable UPnP if you don't need it
+Disable SSD-Broadcast if you don't need it
 Change the default password on your WLAN-Router if possible and store in in a Password Manager 
-Check you WIFI-Channel (auto) on your WLAN-Router if possible and switch to a WIFI-Channel nobody uses
+Check you WIFI-Channel (auto) on your WLAN-Router if possible and switch to a WIFI-Channel nobody around you uses, do this frequently
 Non-Wi-Fi Interference: Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
+
+Topic: Bluetooth 
+------------------
+Switch off Bluetooth on your smart- and other devices if don't need them
 
 Topic: Speedtest Internet
 ------------------------------
