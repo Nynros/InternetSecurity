@@ -6,23 +6,23 @@ Update your WLAN-Router fequently/automatically
 Use common WLAN-Router and WLAN-Extender Hardware like AVM Fritz-Box, no fancy stuff
 Change the default password on your WLAN-Router and store in in a Password Manager 
 Change the DNS settings on your WLAN-Route to Quad9, it's privacy focused (https://www.quad9.net/)
-Enable WPA2/3 Security on your WLAN-Router if possible
+Enable WPA3 Security (better than WPA2) or WPA2 Security (still good) on your WLAN-Router for your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
-Enable Firewall on your WLAN-Router if possible
+Enable the Firewall on your WLAN-Router if possible
 Enable a VPN (like Proton Wireguard) on your WLAN-Router if possible
 Enable MAC Filtering on your WLAN-Router if possible
 Disable SSD-Broadcast if you don't need it
-Disable UPnP if you don't need it
-Check you WIFI-Channel (mostly "auto" or "1") on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, do this frequently
-Non-Wi-Fi Interference: Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
+Disable UPnP (Universal Plug and Play) if you don't need it
+Check you WIFI-Channel on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
+Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
 
-Reboot your WLAN-Router and check the DNS settings
+Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
 
 Topic: Bluetooth 
 ------------------
-Disable Bluetooth if you don't need it
+Disable Bluetooth on all your devices if you don't need it
 
 Topic: Internet Browser
 ------------------------------
@@ -72,8 +72,7 @@ The easiest and quickest way for most people to fix bufferbloat is to upgrade th
 
 Topic: Passwords
 ------------------------------
-If you don't know how good your passwords are
-Visit https://www.passwortcheck.ch/en/
+Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
 Choose all dictionaries
 Paste your password (exept the last digit) in the above field
 If the "Entropy" value is under "100" change your password
@@ -110,7 +109,7 @@ A shortcut to the application will also appear on your desktop for the ease of a
 
 Topic: Virus-Defender
 ------------------------------
-Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you not running a buisness
+Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you a private user
 
 Topic: Backup & Restore Data
 ------------------------------
