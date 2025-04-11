@@ -5,7 +5,7 @@ Topic: WIFI (WLAN-Router)
 Update your WLAN-Router fequently/automatically
 Use common WLAN-Router and WLAN-Extender Hardware like AVM Fritz-Box, no fancy stuff
 Change the default password on your WLAN-Router and store in in a Password Manager 
-Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused (https://www.quad9.net/)
+Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky stuff (https://www.quad9.net/)
 Enable WPA3 Security (better than WPA2) or WPA2 Security (still good) on your WLAN-Router for your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
