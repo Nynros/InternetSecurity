@@ -11,7 +11,7 @@ Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable a VPN (like Proton Wireguard) on your WLAN-Router if possible
 Enable MAC Filtering on your WLAN-Router if possible
-Disable 2.4 GHz WLAN, 5 GHz WLAN or other WLANs if you don't need 
+Disable 2.4 GHz WLAN, 5 GHz WLAN or other WLANs if you don't need them
 Disable SSD-Broadcast if you don't need it
 Disable UPnP (Universal Plug and Play) if you don't need it
 Check you WIFI-Channel on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
