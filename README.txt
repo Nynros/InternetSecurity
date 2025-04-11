@@ -14,7 +14,7 @@ Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique password for every WLAN you use (not Model of the Router, Your Name, Adress, eAtc) 
+Choose a strong unique password for every WLAN you use (not Model of the Router, Your Name, Adress, etc) 
 Disable 2.4 GHz WLAN, 5 GHz WLAN or other WLANs if you don't need them (Guest-WLANs, etc)
 Disable SSD-Broadcast if you don't need it
 Disable UPnP (Universal Plug and Play) if you don't need it
