@@ -41,6 +41,17 @@ Settings -> Sync -> Manage your synced devices > Sync Settings > Sync everything
 Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
 Restart the Brave-Browser and check your changed settings
 
+Topic: WIFI (WLAN-Router)
+------------------
+Enable WPA2/3 Security on your WLAN-Router if possible
+Enable 2FA on your WLAN-Router if possible
+Enable Firewall on your WLAN-Router if possible
+Use A VPN (Wireguard on your router) on your WLAN-Router if possible
+Using MAC Filtering on your WLAN-Router if possible
+Change the default password on your WLAN-Router if possible and store in in a Password Manager 
+Check you WIFI-Channel (auto) on your WLAN-Router if possible and switch to a WIFI-Channel nobody uses
+Non-Wi-Fi Interference: Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
+
 Topic: Speedtest Internet
 ------------------------------
 Choose Speedtest by Ookla (https://www.speedtest.net/)
