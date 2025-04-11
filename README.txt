@@ -85,6 +85,7 @@ Try "Password0123456789" in the above field and check the "Entropy" value
 Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
 Use the password manager as a password generator (20 characters with special characters)
 Use different passwords for every account
+Use a password generator like ProtonPasswordGenerator https://proton.me/pass/password-generator
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
 Use a Yubi-Key (https://www.yubico.com/gb/product/yubikey-5-nfc/)
 Buy another Yubi-Key with NFC in case of loosing the first one
