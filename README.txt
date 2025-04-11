@@ -52,7 +52,7 @@ Settings -> Sync -> Manage your synced devices > Sync Settings > Add your device
 Settings -> Sync -> Manage your synced devices > Sync Settings > Sync everything
 Settings -> Leo -> Show Leo icon in the sidebar > Disable
 Settings -> Leo -> Store my conversation history > Disable
-Settings -> Leo -> Settings -> Delete all Leo AI conversation data -> ok 
+Settings -> Leo -> Delete all Leo AI conversation data -> ok 
 Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
 Restart the Brave-Browser and check your changed settings
 
