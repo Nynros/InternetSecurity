@@ -57,7 +57,11 @@ Settings -> Sync -> Manage your synced devices > Sync Settings > Add your device
 Settings -> Sync -> Manage your synced devices > Sync Settings > Sync everything
 Settings -> Leo -> Show Leo icon in the sidebar > Disable
 Settings -> Leo -> Store my conversation history > Disable
-Settings -> Leo -> Delete all Leo AI conversation data -> ok 
+Settings -> Leo -> Delete all Leo AI conversation data -> ok
+Settings -> Autofill and passwords -> Password Manager -> Settings -> Offer to save passwords and passkeys -> Disable
+Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in automatically -> Disable
+Settings -> Autofill and passwords -> Payment methods -> Disable all
+
 Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
 Restart the Brave-Browser and check your changed settings
 
