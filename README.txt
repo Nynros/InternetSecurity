@@ -6,8 +6,8 @@ Update your WLAN-Router fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
-Change the default password on your WLAN-Router/-Extender (20 digits) and store in a safe place (Password Manager) 
-Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky stuff (https://www.quad9.net/)
+Change the default password on your WLAN-Router/-Extender (20 digits with 2 special characters) and store in a safe place (Password Manager) 
+Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router for any of your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
@@ -17,23 +17,24 @@ Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc) 
-Choose a strong unique password (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc)
+Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc) 
+Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
-Disable WLANs Frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
-Disable UPnP (Universal Plug and Play) if you don't use / need it
-Disable WPA if you don't use / need it
+Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
+Disable WLAN/UPnP (Universal Plug and Play) if you don't use / need it
+Disable WLAN/WPA if you don't use / need it
 Check the WIFI-Channels on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
-Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
 Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
+Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
+
 Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
-Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
+Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check actual DNS Leaks
 
 Topic: Network and  TV-Cables 
 ------------------
-Use proper cables for Network (LAN/USB) or TV/Console (HDMI) https://shorturl.at/Fb22H
+Use proper cables for Network (LAN/USB) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
 
 Topic: Bluetooth 
 ------------------
@@ -97,7 +98,7 @@ If the "Entropy" value is under "100" change your password
 Long passwords are not good passwords, complexity is key.
 Try "Password0123456789" in the above field and check the "Entropy" value
 Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
-Use the password manager as a password generator (20 digits with special characters like #!)
+Use the password manager as a password generator (20 digits with 2 special characters)
 Use different passwords for every account
 Use a password generator like ProtonPasswordGenerator https://proton.me/pass/password-generator
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
