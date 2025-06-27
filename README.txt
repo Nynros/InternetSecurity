@@ -6,9 +6,9 @@ Update your WLAN-Router fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
-Change the default password on your WLAN-Router/-Extender and store in in a Password Manager 
+Change the default password on your WLAN-Router/-Extender (20 digits) and store in a safe place (Password Manager) 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky stuff (https://www.quad9.net/)
-Enable WPA3 Security (better than WPA2) or WPA2 Security (still good) on your WLAN-Router for your WLANs if possible
+Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router for your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
@@ -67,7 +67,6 @@ Settings -> Leo -> Delete all Leo AI conversation data -> ok
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Offer to save passwords and passkeys -> Disable
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in automatically -> Disable
 Settings -> Autofill and passwords -> Payment methods -> Disable all
-
 Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://shorturl.at/XmdJZ
 Restart the Brave-Browser and check your changed settings
 
@@ -75,7 +74,7 @@ Topic: Speedtest Internet
 ------------------------------
 Choose Speedtest by Ookla (https://www.speedtest.net/)
 Choose SpeedOfMe (https://speedof.me/)
-Run both Speedtests and compare the results
+Run both Speedtests sequentially and compare the results
 Ping time should be under 50 milliseconds (ms)
 Download-/Uploadrate should be over 80% of your payed internet connection
 Otherwise update your router and windows pc to the latest level
@@ -90,12 +89,12 @@ Topic: Passwords
 ------------------------------
 Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
 Choose all dictionaries
-Paste your password (exept the last digit) in the above field
+Paste one of your password(s) (exept the last digit) in the above field
 If the "Entropy" value is under "100" change your password
 Long passwords are not good passwords, complexity is key.
 Try "Password0123456789" in the above field and check the "Entropy" value
 Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
-Use the password manager as a password generator (20 characters with special characters)
+Use the password manager as a password generator (20 digits with special characters like #!)
 Use different passwords for every account
 Use a password generator like ProtonPasswordGenerator https://proton.me/pass/password-generator
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
