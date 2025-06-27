@@ -125,7 +125,7 @@ A shortcut to the application will also appear on your desktop for the ease of a
 
 Topic: Virus-Defender
 ------------------------------
-Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you a private user
+Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you are a private user
 
 Topic: Backup & Restore Data
 ------------------------------
@@ -136,10 +136,14 @@ Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://pr
 
 Topic: Mail
 ------------------------------
-Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail
+Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail)
 iOS and Android Apps for ProtonMail avaliable
 
 Topic: Calendar
 ------------------------------
 Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me/calendar)
 iOS and Android Apps for ProtonCalendar avaliable
+
+Topic: Proton-Family 
+------------------------------
+Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://proton.me/family
