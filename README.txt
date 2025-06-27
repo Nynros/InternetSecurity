@@ -3,7 +3,7 @@
 Topic: Internet-Router
 ------------------
 Update your WLAN-Router fequently/automatically
-Use common WLAN-Router Hardware like TP Link BE9300 Tri-Band Wi-Fi 7 Router
+Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
 Change the default password on your WLAN-Router/-Extender and store in in a Password Manager 
