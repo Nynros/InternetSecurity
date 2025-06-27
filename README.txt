@@ -18,8 +18,8 @@ Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", etc) 
-Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", etc)
+Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc) 
+Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
