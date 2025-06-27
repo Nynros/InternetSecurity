@@ -20,6 +20,7 @@ Topic: WIFI
 Choose a strong unique name (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc) 
 Choose a strong unique password (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
+Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs Frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
 Disable UPnP (Universal Plug and Play) if you don't use / need it
 Disable WPA if you don't use / need it
