@@ -8,7 +8,7 @@ Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
 Change the default password on your WLAN-Router/-Extender (20 digits) and store in a safe place (Password Manager) 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky stuff (https://www.quad9.net/)
-Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router for your WLANs if possible
+Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router for any of your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
@@ -17,9 +17,10 @@ Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name (20 digits) for every WLAN you use (not "Model of the Router", "Your Name", "Router-Password", "Adress", etc) 
-Choose a strong unique password (20 digits) for every WLAN you use (not Model of the Router, Your Name, Router-Password, Adress, etc) 
-Disable 2.4 GHz WLAN, 5 GHz WLAN or other WLANs if you don't need them (Guest-WLANs, etc)
+Choose a strong unique name (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc) 
+Choose a strong unique password (20 digits) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc)
+Disable WLANs if you don't use / need them (Guest-WLANs, etc)
+Disable WLANs Frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
 Disable UPnP (Universal Plug and Play) if you don't need it
 Check the WIFI-Channels on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
 Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
