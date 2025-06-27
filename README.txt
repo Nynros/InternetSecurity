@@ -2,7 +2,7 @@
 
 Topic: Internet-Router
 ------------------
-Update your WLAN-Router fequently/automatically
+Update and check the firmware of your WLAN-Router fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
@@ -12,13 +12,13 @@ Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router 
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
-Enable a VPN (like Proton Wireguard) on your WLAN-Router if possible
+Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc) 
-Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", etc)
+Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", etc) 
+Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
