@@ -11,30 +11,30 @@ Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Second
 Enable WPA3 Security (better than WPA2) or WPA2 Security (still good) on your WLAN-Router for your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
+Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Proton Wireguard) on your WLAN-Router if possible
 Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name for every WLAN you use (not Model of the Router, Your Name, Router-Password, Adress, etc) 
-Choose a strong unique password for every WLAN you use (not Model of the Router, Your Name, Router-Password, Adress, etc) 
+Choose a strong unique name (20 digits) for every WLAN you use (not "Model of the Router", "Your Name", "Router-Password", "Adress", etc) 
+Choose a strong unique password (20 digits) for every WLAN you use (not Model of the Router, Your Name, Router-Password, Adress, etc) 
 Disable 2.4 GHz WLAN, 5 GHz WLAN or other WLANs if you don't need them (Guest-WLANs, etc)
-Disable SSD-Broadcast if you don't need it
 Disable UPnP (Universal Plug and Play) if you don't need it
 Check the WIFI-Channels on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
 Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
-"Gaming over WiFi" is possible but not so good, use LAN cable if you can (CAT 7 LAN Cable /)
+Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
 Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
 
-Topic: Bluetooth 
-------------------
-Disable Bluetooth on all your devices if you don't need it
-
 Topic: Network and  TV-Cables 
 ------------------
 Use proper cables for Network (LAN/USB) or TV/Console (HDMI) https://shorturl.at/Fb22H
+
+Topic: Bluetooth 
+------------------
+Disable Bluetooth on all your devices if you don't need it
 
 Topic: Internet Browser
 ------------------------------
@@ -68,16 +68,14 @@ Settings -> Autofill and passwords -> Password Manager -> Settings -> Offer to s
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in automatically -> Disable
 Settings -> Autofill and passwords -> Payment methods -> Disable all
 
-Useful Extensions -> Dark Reader and Proton Pass: Free Password Manager (if you're using ProtonPass)
+Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://shorturl.at/XmdJZ
 Restart the Brave-Browser and check your changed settings
 
 Topic: Speedtest Internet
 ------------------------------
 Choose Speedtest by Ookla (https://www.speedtest.net/)
-Run the the Speedtest
 Choose SpeedOfMe (https://speedof.me/)
-Run the the Speedtest
-Compare both results
+Run both Speedtests and compare the results
 Ping time should be under 50 milliseconds (ms)
 Download-/Uploadrate should be over 80% of your payed internet connection
 Otherwise update your router and windows pc to the latest level
@@ -86,8 +84,7 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 ------------------------------
-If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: 
-The easiest and quickest way for most people to fix bufferbloat is to upgrade their WiFi router. A small number of modern, high-end routers come with a feature called "Smart Queue Management" – also known as SQM (https://www.waveform.com/tools/bufferbloat)
+If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: https://shorturl.at/qOvQv
 
 Topic: Passwords
 ------------------------------
