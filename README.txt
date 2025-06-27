@@ -21,7 +21,7 @@ Disable SSD-Broadcast if you don't need it
 Disable UPnP (Universal Plug and Play) if you don't need it
 Check the WIFI-Channels on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
 Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
-
+"Gaming over WiFi" is possible but not so good, use LAN cable if you can (CAT 7 LAN Cable /)
 Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check your actual DNS Server
@@ -29,6 +29,10 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 Topic: Bluetooth 
 ------------------
 Disable Bluetooth on all your devices if you don't need it
+
+Topic: Cable 
+------------------
+If you are using Cable for Network (LAN/USB) or TV (HDMI) use the good stuff and not the bad stuff https://shorturl.at/Fb22H
 
 Topic: Internet Browser
 ------------------------------
