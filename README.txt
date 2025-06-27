@@ -32,9 +32,9 @@ Topic: Bluetooth
 ------------------
 Disable Bluetooth on all your devices if you don't need it
 
-Topic: Cable 
+Topic: Network and  TV-Cables 
 ------------------
-If you are using Cable for Network (LAN/USB) or TV (HDMI) use the good stuff and not the bad stuff https://shorturl.at/Fb22H
+Use proper cables for Network (LAN/USB) or TV/Console (HDMI) https://shorturl.at/Fb22H
 
 Topic: Internet Browser
 ------------------------------
