@@ -3,6 +3,7 @@
 Topic: Internet-Router
 ------------------
 Update and check the firmware of your WLAN-Router fequently/automatically
+Update and check the firmware of your WLAN-Clients fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
@@ -34,7 +35,7 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 
 Topic: Network and  TV-Cables 
 ------------------
-Use proper cables for Network (LAN/USB) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
+Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
 
 Topic: Bluetooth 
 ------------------
