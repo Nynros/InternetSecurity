@@ -24,7 +24,7 @@ Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't use / need it
-Disable WLAN/WPA if you don't use / need it
+Disable WLAN/WPS if you don't use / need it
 Check the WIFI-Channels on your WLAN-Router and switch to a WIFI-Channel nobody around you uses, check frequently
 Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
 Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
