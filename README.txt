@@ -3,8 +3,10 @@
 Topic: Internet-Router
 ------------------
 Update your WLAN-Router fequently/automatically
-Use common WLAN-Router and WLAN-Extender Hardware like AVM Fritz-Box, no fancy stuff
-Change the default password on your WLAN-Router and store in in a Password Manager 
+Use common WLAN-Router Hardware like TP Link BE9300 Tri-Band Wi-Fi 7 Router
+Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
+Use common Network-Switches like TP Link TL-SG108PE
+Change the default password on your WLAN-Router/-Extender and store in in a Password Manager 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky stuff (https://www.quad9.net/)
 Enable WPA3 Security (better than WPA2) or WPA2 Security (still good) on your WLAN-Router for your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
