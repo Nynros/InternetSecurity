@@ -7,9 +7,9 @@ Update and check the firmware of your WLAN-Clients fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP Link TL-SG108PE
-Change the default password on your WLAN-Router/-Extender (20 digits with 2 special characters) and store in a safe place (Password Manager) 
+Change the default password on your WLAN-Router/-Extender (20 digits with 2 special characters) and store it in a safe place (Password Manager) 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
-Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA3 AES) on your WLAN-Router for any of your WLANs if possible
+Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
