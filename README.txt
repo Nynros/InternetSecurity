@@ -33,9 +33,13 @@ Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check actual DNS Leaks
 
-Topic: Network and  TV-Cables 
+Topic: Network and TV-Cables 
 ------------------
 Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
+
+Topic: Firewall 
+------------------
+If you need extra protection buy a real Firewall with OPNSense (https://eu.protectli.com/news/v1211-launch/)
 
 Topic: Bluetooth 
 ------------------
