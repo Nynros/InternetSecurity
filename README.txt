@@ -20,10 +20,10 @@ Topic: WIFI
 ------------------
 Choose a strong unique wlan-name (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan
 Choose a strong unique password (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan
-Switch to a valid high WiFi-Channel, aviod the "WiFi auto selection"
+Switch to valid high WiFi-Channels, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
-Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
+Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't use / need it
 Disable WLAN/WPS if you don't use / need it
 Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
