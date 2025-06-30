@@ -2,15 +2,15 @@
 
 Topic: Internet-Router
 ------------------
+Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
+Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
+Use common Network-Switches like TP-Link TL-SG108-M2
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
-Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
-Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
-Use common Network-Switches like TP-Link TL-SG108-M2
 Update and check the firmware of your WLAN-Router fequently/automatically
 Update and check the firmware of your WLAN-Clients fequently/automatically
 Change the default password on your WLAN-Router/-Extender (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") and store it in a safe place (Password Manager) 
