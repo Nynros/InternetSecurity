@@ -7,7 +7,7 @@ Update and check the firmware of your WLAN-Clients fequently/automatically
 Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP-Link TL-SG108-M2
-Change the default password on your WLAN-Router/-Extender (20 digits with 2 special characters) and store it in a safe place (Password Manager) 
+Change the default password on your WLAN-Router/-Extender (20 digits, 2 upper-/lower characters and 2 special characters) and store it in a safe place (Password Manager) 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of your WLANs if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
@@ -18,8 +18,8 @@ Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
-Choose a strong unique name (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc) 
-Choose a strong unique password (20 digits with 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc)
+Choose a strong unique name (20 digits, 2 upper-/lower characters and 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc) 
+Choose a strong unique password (20 digits, 2 upper-/lower characters and 2 special characters) for every WLAN you use (not "Router-Model", "Router-Password", "Your Name", "Your Street", "Your Adress", "You Shall Not Pass", "FBI/CIA/NSA field office", etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz, etc)
@@ -104,7 +104,7 @@ If the "Entropy" value is under "100" change your password
 Long passwords are not good passwords, complexity is key.
 Try "Password0123456789" in the above field and check the "Entropy" value
 Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
-Use the password manager as a password generator (20 digits with 2 special characters)
+Use the password manager as a password generator (20 digits, 2 upper-/lower characters and 2 special characters)
 Use different passwords for every account
 Use a password generator like ProtonPasswordGenerator https://proton.me/pass/password-generator
 Use two-factor authentication (2FA) if avaliable (https://authy.com/)
