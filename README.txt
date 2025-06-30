@@ -39,7 +39,8 @@ Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Co
 
 Topic: Firewall 
 ------------------
-If you need extra protection buy a real Firewall with OPNSense and put it between your ISP router and your network (https://eu.protectli.com/news/v1211-launch/)
+If you need extra protection buy a real Firewall with OPNSense and put it between your ISP router and your network. 
+The Firewall/OPNSense will become your new internet-router and can block ad-/malware in your whole internal network (https://eu.protectli.com/news/v1211-launch/)
 
 Topic: Bluetooth 
 ------------------
