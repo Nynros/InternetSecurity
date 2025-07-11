@@ -35,7 +35,7 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 
 Topic:  Time-settings 
 ------------------
-Try to set and maintain the correct time-settings incl. timezone on all your routers, switches, smart-devices (tv, smartphone, etc) and pc's with the following time-servers. 
+Set and maintain the correct time-settings incl. timezone on all your smart-devices (tv, smartphone, etc), pc's, router, switches, smart-devices. Use the following timne-server if possible  
 ptbtime1.ptb.de
 ptbtime2.ptb.de
 ptbtime3.ptb.de
