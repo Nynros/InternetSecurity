@@ -33,6 +33,14 @@ Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check actual DNS Leaks
 
+Topic:  Time-settings 
+------------------
+Try to set and maintain the correct time-settings incl. timezone on all your routers, switches, smart-devices (tv, smartphone, etc) and pc's with the following time-servers. 
+ptbtime1.ptb.de
+ptbtime2.ptb.de
+ptbtime3.ptb.de
+ptbtime4.ptb.de
+
 Topic: Network and TV-Cables 
 ------------------
 Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
