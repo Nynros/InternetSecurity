@@ -120,7 +120,6 @@ Slot 2 - Password generated for your Internetrouter Account from ProtonPass
 Clone the frist Yubi-Key to the second Yubi-Key
 Store the second Yubi-Key in a safe place
 
-
 Topic: VPN (Virtual Private Network)
 ------------------------------
 Get Proton for 9,99 / month (https://protonvpn.com/pricing?ref=home)
