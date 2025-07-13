@@ -36,7 +36,7 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 Topic:  Time-settings 
 ------------------
 Set and maintain the correct time-settings incl. timezone on all your smart-devices (tv, smartphone, etc), pc's, router, switches, smart-devices. 
-Use the timesserver or your country like "uk.pool.ntp.org" or a general server like "pool.ntp.org" (https://www.ntppool.org/en/?lang=en-gb)
+Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.org" or "europe.pool.ntp.org" (https://www.ntppool.org/en/?lang=en-gb)
 
 Topic: Network and TV-Cables 
 ------------------
