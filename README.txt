@@ -122,7 +122,7 @@ Store the second Yubi-Key in a safe place
 
 Topic: Data Breach
 ------------------------------
-Check if your email address is in a data breach (https://haveibeenpwned.com/)
+Check frequently if your email address is in a data breach (https://haveibeenpwned.com/)
 
 Topic: Virus-Defender
 ------------------------------
