@@ -120,45 +120,33 @@ Slot 2 - Password generated for your Internetrouter Account from ProtonPass
 Clone the frist Yubi-Key to the second Yubi-Key
 Store the second Yubi-Key in a safe place
 
-Topic: VPN (Virtual Private Network)
+Topic: Data Breach
 ------------------------------
-Get Proton for 9,99 / month (https://protonvpn.com/pricing?ref=home)
-Install and run the ProtonVPN Client on your PC
-Go to your downloads folder and double click the protonvpn.exe installation file
-If a new window pops up asking “Do you want to allow this app to make changes to your device?”
-Click ‘Yes’
-If installing for the first time, the OpenVPN TAP adapter installation will appear.
-In the window, click ‘Next
-During the installation process, installation of Windows .NET might be required as well.
-If prompted, follow the instructions to install Windows .NET as well.
-Click I Agree and then Next
-Finally click Install
-Once the installer window is open, click install on the first screen.
-The installer will proceed with the process automatically
-Once installed, the Proton VPN application will start, and appear in a new window.
-A shortcut to the application will also appear on your desktop for the ease of access.
+Check if your email address is in a data breach (https://haveibeenpwned.com/)
 
 Topic: Virus-Defender
 ------------------------------
 Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you are a private user
 
-Topic: Backup & Restore Data
+Topic: VPN (Virtual Private Network)
 ------------------------------
-Buy a good USB Drive like a WD_BLACK P40 
-Copy your data frequently to the USB-Drive
-Store the USB Drive in a safe place
-Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me/drive)
+Use a end-to-end encrypted and secure VPN service like ProtonVPN (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
-Topic: Mail
+Topic: Backup & Restore Data (Cloud)
 ------------------------------
-Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail)
-iOS and Android Apps for ProtonMail avaliable
-Check if your email address is in a data breach https://haveibeenpwned.com/
+Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
+
+Topic: e@Mail
+------------------------------
+Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Calendar
 ------------------------------
-Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me/calendar)
-iOS and Android Apps for ProtonCalendar avaliable
+Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Proton-Family 
 ------------------------------
@@ -166,6 +154,5 @@ Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://p
 
 Topic: Linux
 ------------------
-If you want to try Linux as a Desktop OS try Linux Mint. Userfriendly, easy to install and to learn
-https://linuxmint.com/edition.php?id=321
-
+If you want to try Linux as a Desktop OS try "Linux Mint", its userfriendly, easy to install and to learn
+Homepage of Linux-Mint - https://linuxmint.com/edition.php?id=321
