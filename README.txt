@@ -98,7 +98,8 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 ------------------------------
-If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. You can check that with the follwing link: https://shorturl.at/qOvQv
+If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. 
+You can check that with the follwing link: https://shorturl.at/qOvQv
 
 Topic: Passwords
 ------------------------------
