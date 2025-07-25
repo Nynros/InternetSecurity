@@ -154,5 +154,5 @@ Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://p
 
 Topic: Linux
 ------------------
-If you want to try Linux as a Desktop OS try "Linux Mint", its userfriendly, easy to install and to learn
+If you want to try Linux as a Desktop OS try "Linux Mint". It's userfriendly, easy to install and to learn
 Homepage of Linux-Mint - https://linuxmint.com/edition.php?id=321
