@@ -163,3 +163,9 @@ iOS and Android Apps for ProtonCalendar avaliable
 Topic: Proton-Family 
 ------------------------------
 Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://proton.me/family
+
+Topic: Linux
+------------------
+If you want to try Linux as a Desktop OS try Linux Mint. Userfriendly, easy to install and to learn
+https://linuxmint.com/edition.php?id=321
+
