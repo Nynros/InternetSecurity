@@ -157,9 +157,10 @@ Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://p
 Topic: Linux
 ------------------
 If you want to try Linux as a Desktop OS try "Linux Mint". It's userfriendly, easy to install and to learn
-Linux-Mint - https://linuxmint.com/edition.php?id=321
 Linux-Mint - https://distrosea.com/de/start/linuxmint-22-mate/ (Test-Environment)
+Linux-Mint - https://linuxmint.com/edition.php?id=321 (Download)
 
 If you want to try Linux as a Server/Workstation OS try "Rocky Linux". It's stable, reliable and really good for server-applications (web-/cloud-server) or development (compiler, etc) 
-Rocky-Linux - https://dl.rockylinux.org/pub/rocky/9/live/x86_64/Rocky-9-MATE-x86_64-latest.iso
 Rocky-Linux - https://distrosea.com/de/start/rockylinux-9-mate/ (Test-Environment)
+Rocky-Linux - https://dl.rockylinux.org/pub/rocky/9/live/x86_64/Rocky-9-MATE-x86_64-latest.iso (Download)
+
