@@ -158,5 +158,5 @@ Topic: Linux
 If you want to try Linux as a Desktop OS try "Linux Mint". It's userfriendly, easy to install and to learn
 Linux-Mint - https://linuxmint.com/edition.php?id=321
 
-If you want to try Linux as a Server/Workstation OS try "Rocky Linux". It's 24/ stable and really good to host server-applications or compile stuff 
+If you want to try Linux as a Server/Workstation OS try "Rocky Linux". It's stable, reliable and really good for server-applications (web-/cloud-server) or development (compiler, etc) 
 Rocky-Linux - https://dl.rockylinux.org/pub/rocky/9/live/x86_64/Rocky-9-MATE-x86_64-latest.iso
