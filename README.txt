@@ -2,8 +2,8 @@
 
 Topic: Internet-Router
 ------------------
-Use common WLAN-Router like TP Link BE9300 Tri-Band Wi-Fi 7 Router
-Use common WLAN-Extender TP Link BE19000 Tri-Band Wi-Fi 7 Range Extender
+Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7 Router
+Use common WLAN-Extender TP Link Archer RE800BE Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
