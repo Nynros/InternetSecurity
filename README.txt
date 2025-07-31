@@ -5,24 +5,25 @@ Topic: Internet-Router
 Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7 Router
 Use common WLAN-Extender TP Link Archer RE800BE Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP-Link TL-SG108-M2
-Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
+Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
 Update and check the firmware of your WLAN-Clients fequently/automatically
-Change the default password on your WLAN-Router/-Extender (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") and store it in a safe place (Password Manager) 
-Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112), it's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
+Change the default admin password on your WLAN-Router/-Extender (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") and store it in a safe place (Password Manager) 
+Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 
 Topic: WIFI
 ------------------
-Choose a strong unique wlan-name (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan. Choosing your name, adress, other personal information and / or your router name or -model as a wlan name isn't wise. 
-Choose a strong unique password (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan. Choosing your your name, adress, other personal information and / or your router name or -model as a wlan password isn't wise.
-Switch to valid high WiFi-Channels, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
-Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of your WLANs if possible
-Disable WLANs if you don't use / need them (Guest-WLANs, etc)
+Choose a strong and long unique wlan-name for every active wlan (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan.
+Choose a strong and long unique password (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan. 
+Choosing your your name, adresse, other personal information and / or your router name or -model as a wlan password -/name isn't smart.
+Switch to valid WiFi-Channels, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
+Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of all of your WLANs
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
+Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't use / need it
 Disable WLAN/WPS if you don't use / need it
@@ -35,7 +36,7 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 
 Topic:  Time-settings 
 ------------------
-Set and maintain the correct time-settings incl. timezone on all your smart-devices (tv, smartphone, etc), pc's, router, switches, smart-devices. 
+Set and maintain the correct time-settings incl. timezone on all your smart-devices like pc's, router, switches, phones, tablets, watches, radios, etc. 
 Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.org" or "europe.pool.ntp.org" (https://www.ntppool.org/en/?lang=en-gb)
 
 Topic: Network and TV-Cables 
