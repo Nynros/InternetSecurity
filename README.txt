@@ -124,7 +124,7 @@ iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-pass-passw
 
 Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
 Choose all available dictionaries
-Copy and paste your password (exept the last digit in the above field
+Copy and paste your password (exept the last digit) in the above field
 If the "Entropy" value is under "100" change your password
 Use different passwords for every account
 
