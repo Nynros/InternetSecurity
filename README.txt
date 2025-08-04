@@ -12,15 +12,15 @@ Enable MAC Filtering on your WLAN-Router if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
 Update and check the firmware of your WLAN-Clients fequently/automatically
-Change the default admin password on your WLAN-Router/-Extender (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") and store it in a safe place (Password Manager) 
+Change the default admin password to a 20 digit password via password-generator on your WLAN-Router/-Extender and store it in a safe place  
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 
 Topic: WIFI
 ------------------
-Choose a strong and long unique wlan-name for every active wlan (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan.
-Choose a strong and long unique password (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK") for every active wlan. 
-Choosing your your name, adresse, other personal information and / or your router name or -model as a wlan password -/name isn't smart.
-Switch to valid WiFi-Channels, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
+Choose a strong and long unique wlan-name for every active wlan for every active wlan.
+Choose a strong and long unique 20 digit password via password-generator for every active wlan. 
+Choosing your your name, adress, other personal information and / or your router name or -model as a wlan password -/name is not smart.
+Switch to valid and not occupied WiFi-Channel, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of all of your WLANs
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
@@ -46,7 +46,7 @@ Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Co
 Topic: Firewall 
 ------------------
 If you need extra protection buy a real Firewall with OPNSense and put it between your ISP router and your network. 
-The Firewall/OPNSense will become your new internet-router and can block ad-/malware in your whole internal network (https://eu.protectli.com/news/v1211-launch/)
+The Firewall/OPNSense will become your new internet-router and will block intruders and ad-/malware in your whole internal network (https://eu.protectli.com/news/v1211-launch/)
 
 Topic: Bluetooth 
 ------------------
@@ -99,8 +99,10 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 ------------------------------
-If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. 
+If your router must handle several streams and other connections at the same time it may result in some serious latency-problems. 
 You can check that with the follwing link: https://shorturl.at/qOvQv
+BUFFERBLOAT GRADE A - Good 
+BUFFERBLOAT GRADE not A - Not so good 
 
 Topic: Data Breach
 ------------------------------
@@ -121,15 +123,15 @@ Use a end-to-end encrypted and secure Password generator service like ProtonPass
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-pass-password-manager/id6443490629
 
 Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
-Choose all dictionaries
-Paste one of your password(s) (exept the last digit in the above field
+Choose all available dictionaries
+Copy and paste your password (exept the last digit in the above field
 If the "Entropy" value is under "100" change your password
 Use different passwords for every account
 
-Topic: Backup & Restore Data (Cloud)
+Topic: 2FA-Authenticator 
 ------------------------------
-Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
-iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
+Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
 
 Topic: E@Mail
 ------------------------------
@@ -141,11 +143,11 @@ Topic: Calendar
 Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
-Topic: 2FA-Authenticator 
+Topic: Backup & Restore Data (Cloud)
 ------------------------------
-Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
-iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
+Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Proton-Family 
 ------------------------------
-Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://proton.me/family
+Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive -2FA-Authenticator https://proton.me/family
