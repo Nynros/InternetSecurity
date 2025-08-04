@@ -102,26 +102,6 @@ Topic: Internet Latency
 If your router must handle several streams and other connections at the same time it can result in some serious latency-problems. 
 You can check that with the follwing link: https://shorturl.at/qOvQv
 
-Topic: Passwords
-------------------------------
-Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
-Choose all dictionaries
-Paste one of your password(s) (exept the last digit) in the above field
-If the "Entropy" value is under "100" change your password
-Long passwords are not good passwords, complexity is key.
-Try "Password0123456789" in the above field and check the "Entropy" value
-Use a password manager like ProtonPass (https://proton.me/pass) or KeepassXC (https://keepassxc.org/)
-Use the password manager as a password generator (20 digits with 2 upper-/lower characters and 2 special characters like "Dukxezq%deu8NSYEc;FK")
-Use different passwords for every account
-Use a password generator like ProtonPasswordGenerator (https://proton.me/pass/password-generator)
-Use two-factor authentication (2FA) if avaliable (https://authy.com/)
-Use a Yubi-Key (https://www.yubico.com/gb/product/yubikey-5-nfc/)
-Buy another Yubi-Key with NFC in case of loosing the first one
-Slot 1 - Password generated for your Windows Account from ProtonPass
-Slot 2 - Password generated for your Internetrouter Account from ProtonPass
-Clone the frist Yubi-Key to the second Yubi-Key
-Store the second Yubi-Key in a safe place
-
 Topic: Data Breach
 ------------------------------
 Check frequently if your email address is in a data breach (https://haveibeenpwned.com/)
@@ -135,12 +115,23 @@ Topic: VPN (Virtual Private Network)
 Use a end-to-end encrypted and secure VPN service like ProtonVPN (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
+Topic: Passwords
+------------------------------
+Use a end-to-end encrypted and secure Password generator service like ProtonPass (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-pass-password-manager/id6443490629
+
+Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
+Choose all dictionaries
+Paste one of your password(s) (exept the last digit in the above field
+If the "Entropy" value is under "100" change your password
+Use different passwords for every account
+
 Topic: Backup & Restore Data (Cloud)
 ------------------------------
 Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
-Topic: e@Mail
+Topic: E@Mail
 ------------------------------
 Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
@@ -150,17 +141,11 @@ Topic: Calendar
 Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
+Topic: 2FA-Authenticator 
+------------------------------
+Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
+iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
+
 Topic: Proton-Family 
 ------------------------------
 Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive - https://proton.me/family
-
-Topic: Linux
-------------------
-If you want to try Linux as a Desktop OS try "Linux Mint". It's userfriendly, easy to install and to learn
-Linux-Mint - https://distrosea.com/de/start/linuxmint-22-mate/ (Test-Environment)
-Linux-Mint - https://linuxmint.com/edition.php?id=321 (Download)
-
-If you want to try Linux as a Server/Workstation OS try "Rocky Linux". It's stable, reliable and really good for server-applications (web-/cloud-server) or development (compiler, etc) 
-Rocky-Linux - https://distrosea.com/de/start/rockylinux-9-mate/ (Test-Environment)
-Rocky-Linux - https://dl.rockylinux.org/pub/rocky/9/live/x86_64/Rocky-9-MATE-x86_64-latest.iso (Download)
-
