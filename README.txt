@@ -79,6 +79,7 @@ Search Engine -> Private Window -> Brave
 Settings -> Sync -> Manage your synced devices > Sync Settings > Add your devices
 Settings -> Sync -> Manage your synced devices > Sync Settings > Sync everything
 Settings -> Leo -> Show Leo icon in the sidebar > Disable
+Settings -> Leo -> Tab Focus Mode > Disable
 Settings -> Leo -> Store my conversation history > Disable
 Settings -> Leo -> Delete all Leo AI conversation data -> ok
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Offer to save passwords and passkeys -> Disable
@@ -86,6 +87,8 @@ Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in au
 Settings -> Autofill and passwords -> Payment methods -> Disable all
 Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://shorturl.at/XmdJZ
 Restart the Brave-Browser and check your changed settings
+
+There is no complete opt-out option in Brave at the moment and maybe new brave version will activate Leo again
 
 Topic: Speedtest Internet
 ------------------------------
