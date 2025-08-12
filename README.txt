@@ -133,7 +133,7 @@ Topic: 2FA-Authenticator
 ------------------------------
 Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
 Go to Settings -> Advanced Options -> Digits -> 6 seconds
-Go to Settings -> Advanced Options -> Time Interfal -> 30 seconds
+Go to Settings -> Advanced Options -> Time Interval -> 30 seconds
 Go to Settings -> Advanced Options -> Algorithm ->  SHA256 
 
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
