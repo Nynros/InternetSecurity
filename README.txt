@@ -73,6 +73,7 @@ Privacy and security -> Clear browsing data -> Basic -> Time Range -> Advanced->
 Privacy and security -> Clear browsing data -> On exit -> All of it -> Save
 Privacy and security -> Tor windows -> Disable all
 Privacy and security -> Data collection  -> Disable all
+Brave Search Discussions -> Disable
 Search Engine -> Normal Window -> Brave
 Search Engine -> Private Window -> Brave
 Settings -> Sync -> Manage your synced devices > Sync Settings > Add your devices
