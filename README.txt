@@ -135,9 +135,15 @@ Use different passwords for every account
 Topic: 2FA-Authenticator 
 ------------------------------
 Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
-Go to Settings -> Advanced Options -> Digits -> 6 seconds
-Go to Settings -> Advanced Options -> Time Interval -> 30 seconds
-Go to Settings -> Advanced Options -> Algorithm ->  SHA256 
+Settings -> Backup -> activate
+Settings -> Sync between devices -> activate
+Settings -> Biometric lock -> activate
+
+Edit the settings of each account and safe the settings
+Advanced options -> Digits -> 6
+Advanced options -> Time interval -> 30 sec
+Advanced options -> Algorithm -> SHA256
+Advanced options -> Type -> TOTP
 
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
 
