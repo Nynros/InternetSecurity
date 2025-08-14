@@ -155,6 +155,7 @@ Advanced options -> Time interval -> 30 sec
 Advanced options -> Algorithm -> SHA256
 Advanced options -> Type -> TOTP
 
+If a "Passkey" is availiable on a site it would be smart to set-up Passkey and Authenticator, not Passkey or Authenticator  
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
 
 Topic: E@Mail
