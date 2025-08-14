@@ -119,6 +119,16 @@ Windows Defender is good. You don't need another virus-scanner like Avira, McAfe
 Topic: VPN (Virtual Private Network)
 ------------------------------
 Use a end-to-end encrypted and secure VPN service like ProtonVPN (https://proton.me)
+Edit the settings of your default VPN-Account
+Settings -> Profiles -> Fastest
+Settings -> Protocol -> Stealth
+Settings -> NetShield -> Block malware, ads & trackers
+Settings -> Always-on-VPN -> checked
+Settings -> Kill-Switch -> checked
+Settings -> Allow alternative routing -> checked
+Settings -> VPN Accelerator -> checked
+Settings -> Custom DNS -> unchecked
+
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Passwords
