@@ -152,7 +152,7 @@ Settings -> Biometric lock -> activate
 Edit the settings of each account and safe the settings
 Advanced options -> Digits -> 6
 Advanced options -> Time interval -> 30 sec
-Advanced options -> Algorithm -> SHA512
+Advanced options -> Algorithm -> SHA256 (if the site supports TOTP\SHA256, otherwise SHA1)
 Advanced options -> Type -> TOTP
 
 If a "Passkey" is availiable on a site it would be smart to set-up Passkey and Authenticator, not Passkey or Authenticator  
