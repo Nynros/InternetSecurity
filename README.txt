@@ -84,7 +84,9 @@ Settings -> Leo -> Store my conversation history > Disable
 Settings -> Leo -> Delete all Leo AI conversation data -> ok
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Offer to save passwords and passkeys -> Disable
 Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in automatically -> Disable
+Settings -> Privacy and security -> Data collection -> Disable all
 Settings -> Autofill and passwords -> Payment methods -> Disable all
+
 Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://shorturl.at/XmdJZ
 Restart the Brave-Browser and check your changed settings
 
