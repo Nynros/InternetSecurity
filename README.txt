@@ -41,7 +41,7 @@ Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.
 
 Topic: Network and TV-Cables 
 ------------------
-Use proper cables for Network (LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI) (https://shorturl.at/Fb22H)
+Use proper cables for Network (CAT7-LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI2.1) (https://shorturl.at/Fb22H)
 
 Topic: Firewall 
 ------------------
@@ -174,6 +174,12 @@ Topic: Backup & Restore Data (Cloud)
 ------------------------------
 Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
+
+Topic: AI / KI
+------------------------------
+Use a end-to-end encrypted and secure AI/KI service like Proton Lumo (https://proton.me)
+Enable Ghost Mode in "Settings" so chat will be erased after using Proton Lumo
+Enable WebSearch Mode unter the Chat-Windows (Looks like a globe)
 
 Topic: Proton-Family 
 ------------------------------
