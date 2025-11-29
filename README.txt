@@ -3,12 +3,7 @@
 Topic: Internet-Router
 ------------------
 Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7 Router
-Use common WLAN-Extender TP Link Archer RE800BE Tri-Band Wi-Fi 7 Range Extender
 Use common Network-Switches like TP-Link TL-SG108-M2
-Enable the Firewall on your WLAN-Router if possible
-Enable the Quality of Service (QoS) on your WLAN-Router if possible
-Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
-Enable MAC Filtering on your WLAN-Router if possible
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
 Update and check the firmware of your WLAN-Clients fequently/automatically
@@ -21,6 +16,10 @@ Choose a strong and long unique wlan-name for every active wlan
 Choose a strong and long unique 20 digit password via password-generator for every active wlan. 
 Choosing your your name, adress, other personal information and / or your router name or -model as a wlan password -/name is not smart.
 Switch to valid and not occupied WiFi-Channel, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
+Enable the Firewall on your WLAN-Router if possible
+Enable the Quality of Service (QoS) on your WLAN-Router if possible
+Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
+Enable MAC Filtering on your WLAN-Router if possible
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of all of your WLANs
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
