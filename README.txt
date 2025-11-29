@@ -7,7 +7,7 @@ Use common WLAN-Repeater/Extender like TP-Link RE655BE Tri-Band Wi-Fi 7
 Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
-Change the default admin password to a 20 digit password via password-generator on your WLAN-Router/-Extender and store it in a safe place  
+Change the default admin password (20 digits) via a password-generator on your WLAN-Router, -Repeater/Extender  
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 
 Topic: WIFI
