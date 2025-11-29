@@ -2,18 +2,18 @@
 
 Topic: Internet-Router
 ------------------
-Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7 Router
+Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7
+Use common WLAN-Repeater/Extender like TP Link TP-Link RE655BE Tri-Band Wi-Fi 7
 Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
-Update and check the firmware of your WLAN-Clients fequently/automatically
 Change the default admin password to a 20 digit password via password-generator on your WLAN-Router/-Extender and store it in a safe place  
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 
 Topic: WIFI
 ------------------
-Choose a strong / long unique wlan-name for every active wlan
-Choose a strong / long unique 20 digit password for every active wlan. 
+Choose a strong / long unique wlan-name (ssid) for every active wlan 
+Choose a strong / long unique password for every active wlan (20 digits) 
 Choosing your name, adress, other personal or ISP-information as a wlan-name or as a wlan-password not smart.
 Switch to valid and not occupied WiFi-Channel, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
 Enable the Firewall on your WLAN-Router if possible
@@ -24,8 +24,8 @@ Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router 
 Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz)
-Disable WLAN/UPnP (Universal Plug and Play) if you don't use / need it
-Disable WLAN/WPS if you don't use / need it
+Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
+Disable WLAN/WPS if you don't need it
 Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
 Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
 
