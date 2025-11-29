@@ -17,7 +17,7 @@ Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Second
 
 Topic: WIFI
 ------------------
-Choose a strong and long unique wlan-name for every active wlan for every active wlan.
+Choose a strong and long unique wlan-name for every active wlan
 Choose a strong and long unique 20 digit password via password-generator for every active wlan. 
 Choosing your your name, adress, other personal information and / or your router name or -model as a wlan password -/name is not smart.
 Switch to valid and not occupied WiFi-Channel, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
