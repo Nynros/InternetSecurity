@@ -41,7 +41,7 @@ Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.
 
 Topic: Network and TV-Cables 
 ------------------
-Use proper cables for Network (CAT7-LAN/USB), Monitor (DVI), Audio (Optical) or TV/Console (HDMI2.1) (https://shorturl.at/Fb22H)
+Use proper cables for Network (CAT7-LAN), USB-C or USB 3.x, Monitor (DVI), Audio (Optical) or TV/Console (HDMI2.x)
 
 Topic: Firewall 
 ------------------
