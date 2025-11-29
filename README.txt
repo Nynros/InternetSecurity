@@ -26,8 +26,8 @@ Disable WLANs if you don't use / need them (Guest-WLANs, etc)
 Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
 Disable WLAN/WPS if you don't need it
-Gaming over WiFi is possible but not so good, use LAN cables if you can (CAT 7 LAN Cable)
-Things like microwaves, Bluetooth devices, spy cameras, and motion sensors can all interfere with your Wi-Fi network’s ability
+Gaming over WiFi is possible but not smart. Use LAN cables if you can (CAT 7 LAN Cable)
+Things like microwaves, WLAN-sensors, WLAN-cameras can interfere with your Wi-Fi network’s ability
 
 Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
