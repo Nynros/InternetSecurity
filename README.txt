@@ -20,13 +20,11 @@ Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of all of your WLANs
-Disable WLANs if you don't use / need them (Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
-Disable WLANs if you don't use / need them (Guest-WLANs, etc)
-Disable WLANs frequencies if you don't use / need them (2,4 GHz, 5 GHz, 6 GHz, 7 GHz)
+Disable WLANs if you don't need them (Guest-WLANs, etc, Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
 Disable WLAN/WPS if you don't need it
 Gaming over WiFi is possible but not smart. Use LAN cables if you can (CAT 7 LAN Cable)
-Things like microwaves, WLAN-sensors, WLAN-cameras can interfere with your Wi-Fi network’s ability
+Things like microwaves, WLAN-sensors / -cameras can interfere with your Wi-Fi network’s ability
 
 Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
@@ -44,10 +42,7 @@ Use proper cables for Network (CAT7-LAN), USB-C or USB 3.x, Monitor (DVI), Audio
 Topic: Firewall 
 ------------------
 If you need extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your network. 
-Hardware for the pfSense (https://eu.protectli.com/product/v1211/)
-
 The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad-Malware in your whole internal network 
-(Internet/WAN <-> ISP Router <-> pfSense <-> Home-Net (WLAN/LAN)
 
 Topic: Bluetooth 
 ------------------
@@ -106,7 +101,7 @@ Contact your internet-Provider if the messurements are still bad
 
 Topic: Internet Latency
 ------------------------------
-If your router must handle several streams and other connections at the same time it may result in some serious latency-problems. 
+If your router must handle several streams and other connections at the same time it may result in some serious latency-problems (office or family scenario). 
 You can check that with the follwing link - https://www.waveform.com/tools/bufferbloat
 BUFFERBLOAT GRADE A/B - Good 
 BUFFERBLOAT GRADE not A/B - Not so good. Check / Enable the Quality of Service (QoS) and MAC Filtering on your WLAN-Router if possible. Contact your ISP
