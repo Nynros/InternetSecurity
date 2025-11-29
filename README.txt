@@ -45,8 +45,11 @@ Use proper cables for Network (CAT7-LAN/USB), Monitor (DVI), Audio (Optical) or 
 
 Topic: Firewall 
 ------------------
-If you need extra protection buy a real Firewall with OPNSense and put it between your ISP router and your network. 
-The Firewall/OPNSense will become your new internet-router and will block intruders and ad-/malware in your whole internal network (https://eu.protectli.com/news/v1211-launch/)
+If you need extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your network. 
+Hardware for the pfSense (https://eu.protectli.com/product/v1211/)
+
+The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad-Malware in your whole internal network 
+(Internet/WAN <-> ISP Router <-> pfSense <-> Home-Net (WLAN/LAN)
 
 Topic: Bluetooth 
 ------------------
@@ -106,13 +109,13 @@ Contact your internet-Provider if the messurements are still bad
 Topic: Internet Latency
 ------------------------------
 If your router must handle several streams and other connections at the same time it may result in some serious latency-problems. 
-You can check that with the follwing link: https://shorturl.at/qOvQv
-BUFFERBLOAT GRADE A - Good 
-BUFFERBLOAT GRADE not A - Not so good 
+You can check that with the follwing link - https://www.waveform.com/tools/bufferbloat
+BUFFERBLOAT GRADE A/B - Good 
+BUFFERBLOAT GRADE not A/B - Not so good. Check / Enable the Quality of Service (QoS) and MAC Filtering on your WLAN-Router if possible. Contact your ISP
 
 Topic: Data Breach
 ------------------------------
-Check frequently if your email address is in a data breach (https://haveibeenpwned.com/)
+Check frequently (monthly) if your email address is in a data breach - https://haveibeenpwned.com
 
 Topic: Virus-Defender
 ------------------------------
@@ -131,7 +134,7 @@ Settings -> Allow alternative routing -> checked
 Settings -> VPN Accelerator -> checked
 Settings -> Custom DNS -> unchecked
 
-iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
+Apps for iOS and Android avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Passwords
 ------------------------------
@@ -154,7 +157,7 @@ Settings -> Biometric lock -> activate
 Edit the settings of each account and safe the settings
 Advanced options -> Digits -> 6
 Advanced options -> Time interval -> 30 sec
-Advanced options -> Algorithm -> SHA256 (if the site supports TOTP\SHA256, otherwise SHA1)
+Advanced options -> Algorithm -> SHA256
 Advanced options -> Type -> TOTP
 
 If a "Passkey" is availiable on a site it would be smart to set-up Passkey and Authenticator, not Passkey or Authenticator  
@@ -162,22 +165,22 @@ iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authentica
 
 Topic: E@Mail
 ------------------------------
-Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me)
+Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Calendar
 ------------------------------
-Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me)
+Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me/calendar)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Backup & Restore Data (Cloud)
 ------------------------------
-Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me)
+Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me/drive)
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: AI / KI
 ------------------------------
-Use a end-to-end encrypted and secure AI/KI service like Proton Lumo (https://proton.me)
+Use a end-to-end encrypted and secure AI/KI service like Proton Lumo - https://lumo.proton.me/guest
 Enable Ghost Mode in "Settings" so chat will be erased after using Proton Lumo
 Enable WebSearch Mode unter the Chat-Windows (Looks like a globe)
 
