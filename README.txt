@@ -3,7 +3,7 @@
 Topic: Internet-Router
 ------------------
 Use common WLAN-Router like TP Link Archer BE550 Tri-Band Wi-Fi 7
-Use common WLAN-Repeater/Extender like TP Link TP-Link RE655BE Tri-Band Wi-Fi 7
+Use common WLAN-Repeater/Extender like TP-Link RE655BE Tri-Band Wi-Fi 7
 Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
