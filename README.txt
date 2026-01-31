@@ -140,7 +140,7 @@ Copy and paste your password (exept the last digit) in the above field
 If the "Entropy" value is under "100" change your password
 Use different passwords for every account
 
-Use "passkeys" for every account if poissible/availiable and passwords with 2FA as backup https://fidoalliance.org/passkeys/
+Use "passkeys" for every account if possible/availiable and passwords with 2FA as backup https://fidoalliance.org/passkeys/
 
 Topic: 2FA-Authenticator 
 ------------------------------
