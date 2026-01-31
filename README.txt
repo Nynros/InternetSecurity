@@ -189,4 +189,4 @@ Pixelfed – Instagram Alternative https://pixelfed.org/
 Loops - TikTok Alternative https://joinloops.org/
 Signal – WhatsApp Alternative https://signal.org/
 Threema – WhatsApp Alternative https://threema.com/en
-Storygraph - GoodRead Alternative https://thestorygraph.com/
+Storygraph - GoodReads Alternative https://thestorygraph.com/
