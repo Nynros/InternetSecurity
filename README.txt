@@ -184,8 +184,7 @@ Enable WebSearch Mode unter the Chat-Windows (Looks like a globe)
 Topic: Social Media
 ------------------------------
 Try to avoid Social Media at all or use alternatives for Facebook, TikTok and Whatsup if possible 
-Mastodon https://mastodon.social/explore
-Threema https://threema.com/en
-Signal https://signal.org/
-
-
+Mastodon – Twitter Alternative https://mastodon.social/explore
+Pixelfed – Instagram Alternative https://pixelfed.org/
+Signal – WhatsApp Alternative https://signal.org/
+Threema – WhatsApp Alternative https://threema.com/en
