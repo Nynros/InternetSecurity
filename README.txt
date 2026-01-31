@@ -186,5 +186,6 @@ Topic: Social Media
 Try to avoid Social Media at all or use alternatives for Facebook, Twitter, TikTok and Whatsup if possible 
 Mastodon – Twitter Alternative https://mastodon.social/explore
 Pixelfed – Instagram Alternative https://pixelfed.org/
+Loops - TikTok Alternative https://joinloops.org/
 Signal – WhatsApp Alternative https://signal.org/
 Threema – WhatsApp Alternative https://threema.com/en
