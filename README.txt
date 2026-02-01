@@ -33,7 +33,7 @@ Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to chec
 Topic: Time-settings 
 ------------------
 Set and maintain the correct time-settings incl. timezone on all your smart-devices like pc's, router, switches, phones, tablets, watches, radios, etc. 
-Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.org" or "europe.pool.ntp.org" (https://www.ntppool.org/en/?lang=en-gb)
+Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.org" or "europe.pool.ntp.org" - https://www.ntppool.org/
 
 Topic: Network and TV-Cables 
 ------------------
@@ -41,8 +41,8 @@ Use proper cables for Networks, USB-C or USB 3.x, Monitor , Audio or TV/Console 
 
 Topic: Firewall (Hardware)
 ------------------
-If you need extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your network. 
-The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad-Malware in your whole internal network 
+Windows Defender is good. If you really need an extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your internal network. 
+The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad- and Malware in your whole internal network 
 
 Topic: Bluetooth 
 ------------------
@@ -115,7 +115,7 @@ Check frequently (monthly) if your email address is in a data breach - https://h
 
 Topic: Virus-Defender
 ------------------------------
-Windows Defender is good against viruses, malware and other nasty stuff. You don't need another security-scanner like Avira, McAfee, etc if you are a private user
+Windows Defender is good. You don't need another security-scanner like Avira, McAfee, etc if you are a private user
 
 Topic: VPN (Virtual Private Network)
 ------------------------------
