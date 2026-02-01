@@ -83,7 +83,7 @@ Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in au
 Settings -> Privacy and security -> Data collection -> Disable all
 Settings -> Autofill and passwords -> Payment methods -> Disable all
 
-Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://shorturl.at/XmdJZ
+Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://proton.me/pass/download/chrome
 Restart the Brave-Browser and check your changed settings
 
 There is no complete Leo AI opt-out option in Brave at the moment and maybe new brave version will activate Leo again
@@ -154,7 +154,10 @@ Advanced options -> Algorithm -> SHA256
 Advanced options -> Type -> TOTP
 
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authenticator/id6741758667
-If a "Passkey" (https://fidoalliance.org/passkeys/) is availiable on a site it would be smart to set-up Passkey, Password and 2FA-Authenticator for backup 
+
+Topic: Passkey
+------------------------------
+If a Passkey (https://fidoalliance.org/passkeys/) is availiable on a site it would be smart to set-up Passkey, Password and 2FA-Authenticator for backup 
 
 Topic: E@Mail
 ------------------------------
