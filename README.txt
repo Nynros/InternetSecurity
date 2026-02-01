@@ -7,7 +7,7 @@ Use common WLAN-Repeater/Extender like TP-Link RE655BE Tri-Band Wi-Fi 7
 Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
-Change the default admin password (20 digits) via a password-generator on your WLAN-Router, -Repeater/Extender  
+Change the default admin password via a password-generator on your WLAN-Router, -Repeater/Extender to a new one (20 digits) 
 Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
 
 Topic: WIFI
@@ -30,16 +30,16 @@ Reboot your WLAN-Router and check the changed settings
 Visit "https://on.quad9.net/" via a browser to check your actual DNS Server
 Visit "https://dnsleaktest.com/" via a browser and run a "Standard Test" to check actual DNS Leaks
 
-Topic:  Time-settings 
+Topic: Time-settings 
 ------------------
 Set and maintain the correct time-settings incl. timezone on all your smart-devices like pc's, router, switches, phones, tablets, watches, radios, etc. 
 Use nearest timesserver from your location like "uk.pool.ntp.org", "de.pool.ntp.org" or "europe.pool.ntp.org" (https://www.ntppool.org/en/?lang=en-gb)
 
 Topic: Network and TV-Cables 
 ------------------
-Use proper cables for Network (CAT7-LAN), USB-C or USB 3.x, Monitor (DVI), Audio (Optical) or TV/Console (HDMI2.x)
+Use proper cables for Networks, USB-C or USB 3.x, Monitor , Audio or TV/Console - https://thekabeldirekt.com/
 
-Topic: Firewall 
+Topic: Firewall (Hardware)
 ------------------
 If you need extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your network. 
 The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad-Malware in your whole internal network 
@@ -116,7 +116,7 @@ Windows Defender is good against viruses, malware and other nasty stuff. You don
 
 Topic: VPN (Virtual Private Network)
 ------------------------------
-Use a end-to-end encrypted and secure VPN service like ProtonVPN (https://proton.me) 24/7 on all your devices
+Use a end-to-end encrypted and secure VPN service like ProtonVPN 24/7 on all your devices - https://proton.me
 Edit the settings of your default VPN-Account
 Settings -> Profiles -> Fastest
 Settings -> Protocol -> Stealth
@@ -131,7 +131,7 @@ Apps for iOS and Android avaliable - https://apps.apple.com/de/developer/proton-
 
 Topic: Passwords
 ------------------------------
-Use a end-to-end encrypted and secure Password generator service like ProtonPass (https://proton.me)
+Use a end-to-end encrypted and secure Password generator service like ProtonPass - https://proton.me
 iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-pass-password-manager/id6443490629
 
 Visit https://www.passwortcheck.ch/en/ if you don't know how good your passwords are
@@ -142,7 +142,7 @@ Use different passwords for every account
 
 Topic: 2FA-Authenticator 
 ------------------------------
-Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator (https://proton.me)
+Use a end-to-end encrypted and secure 2FA-Authenticator service like ProtonAuthenticator - https://proton.me
 Settings -> Backup -> activate
 Settings -> Sync between devices -> activate
 Settings -> Biometric lock -> activate
@@ -162,25 +162,26 @@ If a Passkey (https://fidoalliance.org/passkeys/) is availiable on a site it wou
 Topic: Yubi-Key (Hardware) 
 ------------------------------
 A Yubi-Key is a geat soulution storing all your Passkeys or for multi-factor authentication (MFA) - https://www.yubico.com/
+You neat at least 2 Yubi-Keys. One for daily use and one for backup. fequently sync nessesary 
 
 Topic: E@Mail
 ------------------------------
-Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail)
+Use a end-to-end encrypted and secure email service like ProtonMail - https://proton.me/mail
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Calendar
 ------------------------------
-Use a end-to-end encrypted and secure calendar service like ProtonCalendar (https://proton.me/calendar)
+Use a end-to-end encrypted and secure calendar service like ProtonCalendar - https://proton.me/calendar
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Backup & Restore Data (Cloud)
 ------------------------------
-Use a end-to-end encrypted and secure cloud service like ProtonDrive (https://proton.me/drive)
+Use a end-to-end encrypted and secure cloud service like ProtonDrive - https://proton.me/drive
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
 Topic: Proton-Family 
 ------------------------------
-Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive -2FA-Authenticator https://proton.me/family
+Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive -2FA-Authenticator - https://proton.me/family
 
 Topic: AI / KI
 ------------------------------
