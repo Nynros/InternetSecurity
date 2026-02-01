@@ -112,7 +112,7 @@ Check frequently (monthly) if your email address is in a data breach - https://h
 
 Topic: Virus-Defender
 ------------------------------
-Windows Defender is good. You don't need another virus-scanner like Avira, McAfee, etc if you are a private user
+Windows Defender is good against viruses, malware and other nasty stuff. You don't need another security-scanner like Avira, McAfee, etc if you are a private user
 
 Topic: VPN (Virtual Private Network)
 ------------------------------
