@@ -19,9 +19,10 @@ Enable the Firewall on your WLAN-Router if possible
 Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
-Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for any of all of your WLANs
-Disable WLANs if you don't need them (Guest-WLANs, etc, Turn off WLANs from 01:00 AM to 07:00 AM, holidays, weekend-trips, etc)
+Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for all of your WLANs
+Disable WLANs if you don't use them (Guest-WLANs, Holidays, Weekend-trips, Sleep, etc)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
+
 Disable WLAN/WPS if you don't need it
 Gaming over WiFi is possible but not smart. Use LAN cables if you can (CAT 7 LAN Cable)
 Things like microwaves, WLAN-sensors / -cameras can interfere with your Wi-Fi network’s ability
