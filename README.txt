@@ -159,6 +159,10 @@ Topic: Passkey
 ------------------------------
 If a Passkey (https://fidoalliance.org/passkeys/) is availiable on a site it would be smart to set-up Passkey, Password and 2FA-Authenticator for backup 
 
+Topic: Yubi-Key (Hardware) 
+------------------------------
+A Yubi-Key is a geat soulution storing all your Passkeys or for multi-factor authentication (MFA) - https://www.yubico.com/
+
 Topic: E@Mail
 ------------------------------
 Use a end-to-end encrypted and secure email service like ProtonMail (https://proton.me/mail)
