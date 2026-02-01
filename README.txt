@@ -86,7 +86,7 @@ Settings -> Autofill and passwords -> Payment methods -> Disable all
 Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://proton.me/pass/download/chrome
 Restart the Brave-Browser and check your changed settings
 
-There is no complete Leo AI opt-out option in Brave at the moment and maybe new brave version will activate Leo again
+There is no complete  in Brave at the moment and maybe new brave version will activate Leo again
 
 Topic: Speedtest Internet
 ------------------------------
