@@ -20,7 +20,7 @@ Enable the Quality of Service (QoS) on your WLAN-Router if possible
 Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
 Enable MAC Filtering on your WLAN-Router if possible
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for all of your WLANs
-Disable WLANs if you don't use them (Guest-WLANs, Holidays, Weekend-trips, Sleep, etc)
+Disable WLANs if you don't use them (Guest-WLANs and while on holidays, heekend-trips, Sleeping, etc)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
 
 Disable WLAN/WPS if you don't need it
