@@ -162,7 +162,7 @@ If a Passkey (https://fidoalliance.org/passkeys/) is availiable on a site it wou
 Topic: Yubi-Key (Hardware) 
 ------------------------------
 A Yubi-Key is a geat soulution storing all your Passkeys or for multi-factor authentication (MFA) - https://www.yubico.com/
-You neat at least 2 Yubi-Keys. One for daily use and one for backup. fequently sync nessesary 
+You neet at least two Yubi-Keys. One for daily use and one for backup, fequently sync nessesary 
 
 Topic: E@Mail
 ------------------------------
