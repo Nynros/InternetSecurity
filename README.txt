@@ -160,7 +160,8 @@ iOS and Android Apps avaliable - https://apps.apple.com/us/app/proton-authentica
 
 Topic: Passkey
 ------------------------------
-If a Passkey (https://fidoalliance.org/passkeys/) is availiable on a site it would be smart to set-up Passkey, Password and 2FA-Authenticator for backup 
+A passkey is a modern, secure, and passwordless way to sign in to websites and apps. Instead of using a username and password, a passkey uses public key cryptography to authenticate you. 
+If a Passkey is availiable on a site it would be smart to set-up Passkey, Password and 2FA-Authenticator for backup 
 
 Topic: Yubi-Key (Hardware) 
 ------------------------------
