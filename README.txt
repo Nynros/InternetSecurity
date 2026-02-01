@@ -51,7 +51,7 @@ Disable Bluetooth on all your devices if you don't need it
 
 Topic: Internet Browser
 ------------------------------
-Use the Brave-Browser, build-in privacy focused search-eengine (so no Google, Bing, etc) and build-in ad-/malware blocker - https://brave.com 
+Use the Brave-Browser, build-in privacy focused search-eengine (so no Google, Bing, etc) and a build-in ad-/malware blocker - https://brave.com 
 Install and make the Brave-Browser default on your pc
 Install and make the Brave-Browser default on smartphone/tablet (iOS and Android Apps availiable)
 Get started > On startup > Open the New Tab Page
