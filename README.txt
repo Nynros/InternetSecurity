@@ -57,6 +57,8 @@ Get started > On startup > Open the New Tab Page
 Shields > Trackers & ads blocking > Shields > Agressive 
 Shields > Upgrade connections to HTTPS >  Strict
 Shields > Forget me when I close this site -> Checked -> Save
+Shields > Block Fingerprinting -> Checked -> Save
+Shields > Block Cookies-> Block third party cookies -> Checked -> Save
 Shields > Content filtering -> Update list 
 Shields > Content filtering -> Filter Lists -> EasyList -> All of it -> Save
 Shields > Content filtering -> Filter Lists -> Fanboy -> All of it -> Save
@@ -86,7 +88,8 @@ Settings -> Autofill and passwords -> Payment methods -> Disable all
 Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://proton.me/pass/download/chrome
 Restart the Brave-Browser and check your changed settings
 
-There is no complete  in Brave at the moment and maybe new brave version will activate Leo again
+There is no complete in Brave at the moment and maybe new brave version will activate Leo again
+Exit the Brave-Browser the proper way -> Exit, just closing it or shutting down your PC will not work  
 
 Topic: Speedtest Internet
 ------------------------------
