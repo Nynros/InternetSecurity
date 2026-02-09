@@ -204,7 +204,6 @@ Signal – WhatsApp Alternative https://signal.org/
 Threema – WhatsApp Alternative https://threema.com/en
 Storygraph - GoodReads Alternative https://thestorygraph.com/
 
-
 Topic: Online Payment
 ------------------------------
 Never use any online payment (Amazon, Thalia, Booking.conm, etc) without 2FA-Authenticator 
