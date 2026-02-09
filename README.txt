@@ -203,3 +203,9 @@ Loops - TikTok Alternative https://joinloops.org/
 Signal – WhatsApp Alternative https://signal.org/
 Threema – WhatsApp Alternative https://threema.com/en
 Storygraph - GoodReads Alternative https://thestorygraph.com/
+
+
+Topic: Online Payment
+------------------------------
+Never use any online payment (Amazon, Thalia, Booking.conm, etc) without 2FA-Authenticator 
+Use WERO (https://wero-wallet.eu/) in the EU if possible, PayPal as backup
