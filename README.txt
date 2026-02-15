@@ -86,6 +86,9 @@ Topic: Brave Extensions
 Proton Pass : Free Password Manager - https://proton.me/pass/download/chrome
 Click&Clean : Deletes typed URLs, Cache, Cookies, your Download and Browsing History - https://chromewebstore.google.com/detail/click-and-clean
 
+Open Click&Clean interface -> Choose "High Profile" -> Run Cleaner
+Run Privacy Test https://www.hotcleaner.com/clickclean-app.html
+
 Topic: Speedtest Internet
 ------------------------------
 Choose Speedtest by Ookla (https://www.speedtest.net/)
