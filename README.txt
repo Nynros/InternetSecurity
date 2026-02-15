@@ -42,8 +42,9 @@ Use proper cables for Networks, USB-C or USB 3.x, Monitor , Audio or TV/Console 
 
 Topic: Firewall (Hardware)
 ------------------
-Windows Defender is good. If you really need an extra protection buy a real Firewall with pfSense (https://pfsense.org/) and put it between your ISP router and your internal network. 
+Windows Defender is good. If you really need an extra protection buy a real Firewall with pfSense and put it between your ISP router and your internal network. 
 The Firewall/pfSense will become your new internet-router and will block intruders, trackers and Ad- and Malware in your whole internal network 
+Firewall (ProtectCLI) - https://eu.protectli.com/product/vp2420/
 
 Topic: Bluetooth 
 ------------------
