@@ -61,12 +61,7 @@ Shields > Forget me when I close this site -> Checked -> Save
 Shields > Block Fingerprinting -> Checked -> Save
 Shields > Block Cookies-> Block third party cookies -> Checked -> Save
 Shields > Content filtering -> Update list 
-Shields > Content filtering -> Filter Lists -> EasyList -> All of it -> Save
-Shields > Content filtering -> Filter Lists -> Fanboy -> All of it -> Save
-Shields > Content filtering -> Filter Lists -> AdGuard -> All of it -> Save
-Shields > Content filtering -> Filter Lists -> Youtube -> All of it -> Save
-Shields > Content filtering -> Filter Lists -> Brave Twitch -> All of it -> Save
-Shields > Social media blocking > Disable all > Save    
+Shields > Content filtering -> Filter Lists -> All of it -> Save
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> All Time -> Clear Data
 Privacy and security -> Clear browsing data -> Basic -> Time Range -> Advanced-> All of it -> Clear Data
 Privacy and security -> Clear browsing data -> On exit -> All of it -> Save
