@@ -81,11 +81,10 @@ Settings -> Autofill and passwords -> Password Manager -> Settings -> Sign in au
 Settings -> Privacy and security -> Data collection -> Disable all
 Settings -> Autofill and passwords -> Payment methods -> Disable all
 
-Useful Extensions -> Proton Pass: Free Password Manager (if you're using ProtonPass) - https://proton.me/pass/download/chrome
-Restart the Brave-Browser and check your changed settings
-
-There is no complete LeoAI opt-out in Brave at the moment and maybe new Brave version will activate Leo AI again, so you need to check it
-Exit the Brave-Browser the proper way -> Exit, just closing it or shutting down your PC will not work  
+Topic: Brave Extensions
+------------------------------
+Proton Pass: Free Password Manager - https://proton.me/pass/download/chrome
+Click&Clean - https://chromewebstore.google.com/detail/click-and-clean
 
 Topic: Speedtest Internet
 ------------------------------
