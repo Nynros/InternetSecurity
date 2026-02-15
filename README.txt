@@ -83,9 +83,8 @@ Settings -> Autofill and passwords -> Payment methods -> Disable all
 
 Topic: Brave Extensions
 ------------------------------
-Proton Pass: Free Password Manager - https://proton.me/pass/download/chrome
-Click&Clean - https://chromewebstore.google.com/detail/click-and-clean
-Dark Reader - https://chromewebstore.google.com/detail/dark-reader
+Proton Pass : Free Password Manager - https://proton.me/pass/download/chrome
+Click&Clean : Deletes typed URLs, Cache, Cookies, your Download and Browsing History - https://chromewebstore.google.com/detail/click-and-clean
 
 Topic: Speedtest Internet
 ------------------------------
