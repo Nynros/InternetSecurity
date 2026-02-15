@@ -184,10 +184,6 @@ Topic: Backup & Restore Data (Cloud)
 Use a end-to-end encrypted and secure cloud service like ProtonDrive - https://proton.me/drive
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
-Topic: Proton-Family 
-------------------------------
-Protect your whole family wth Proton-VPN, -Calendar, -E@Mail, -Drive -2FA-Authenticator - https://proton.me/family
-
 Topic: AI / KI
 ------------------------------
 Use a end-to-end encrypted and secure AI/KI service like Proton Lumo - https://lumo.proton.me/guest
