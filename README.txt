@@ -85,6 +85,7 @@ Topic: Brave Extensions
 ------------------------------
 Proton Pass: Free Password Manager - https://proton.me/pass/download/chrome
 Click&Clean - https://chromewebstore.google.com/detail/click-and-clean
+Dark Reader - https://chromewebstore.google.com/detail/dark-reader
 
 Topic: Speedtest Internet
 ------------------------------
