@@ -182,6 +182,8 @@ Topic: Backup & Restore Data (Cloud)
 Use a end-to-end encrypted and secure cloud service like ProtonDrive - https://proton.me/drive
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
 
+Another valid solution would be a shared USB-Drive on your router - https://www.sandisk.com/en-gb/products/ssd/external-ssd/wd-black-d30-game-drive-usb-3-2-ssd 
+
 Topic: AI / KI
 ------------------------------
 Use a end-to-end encrypted and secure AI/KI service like Proton Lumo - https://lumo.proton.me/guest
