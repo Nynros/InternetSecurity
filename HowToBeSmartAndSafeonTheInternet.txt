@@ -8,7 +8,7 @@ Use common Network-Switches like TP-Link TL-SG108-M2
 Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
 Change the default admin password via a password-generator on your WLAN-Router, -Repeater/Extender to a new one (20 digits) 
-Change the DNS server on your WLAN-Router to Quad9 (Primary DNS 9.9.9.9 / Secondary DNS 149.112.112.112). It's privacy focused and blocks stinky ad- and malware-stuff (https://www.quad9.net/)
+Change the DNS server on your WLAN-Router to Quad9 (DNS 9.9.9.9) and AdGuardDNS (DNS 94.140.15.15) to block Ad- and Malware 
 
 Topic: WIFI
 ------------------
