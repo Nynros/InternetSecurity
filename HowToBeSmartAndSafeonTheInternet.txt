@@ -9,16 +9,16 @@ Enable Two-factor authentication (2FA) on your WLAN-Router if possible
 Update and check the firmware of your WLAN-Router fequently/automatically
 Change the default admin password via a password-generator on your WLAN-Router, -Repeater/Extender to a new one (20 digits) 
 Change the DNS server on your WLAN-Router to Quad9 (DNS 9.9.9.9) and AdGuardDNS (DNS 94.140.15.15) to block Ad- and Malware 
+Enable the Firewall on your WLAN-Router if possible
+Enable the Quality of Service (QoS) on your WLAN-Router if possible
+Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
+Enable MAC Filtering on your WLAN-Router if possible
 
 Topic: WIFI
 ------------------
 Choose a strong / complex unique wlan-name (ssid) and password (20 digits) for every active wlan  
 Choosing your name, adress, other personal or ISP-information as a wlan-name or as a wlan-password not smart.
 Switch to valid and not occupied WiFi-Channel, aviod the "WiFi auto selection" for 2,4 GHz, 5 GHz, 6 GHz, 7 GHz
-Enable the Firewall on your WLAN-Router if possible
-Enable the Quality of Service (QoS) on your WLAN-Router if possible
-Enable a VPN (like Wireguard) on your WLAN-Router if possible and select the fastest VPN connection
-Enable MAC Filtering on your WLAN-Router if possible
 Enable WPA3 Security (WPA3 AES) or WPA2 Security (WPA2 AES) on your WLAN-Router for all of your WLANs
 Disable WLANs if you don't use them (Guest-WLANs and while on holidays, weekend-trips, sleeping, etc)
 Disable WLAN/UPnP (Universal Plug and Play) if you don't need it
