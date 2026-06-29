@@ -84,11 +84,8 @@ Settings -> Autofill and passwords -> Payment methods -> Disable all
 
 Topic: Brave Extensions
 ------------------------------
-Proton Pass : Free Password Manager - https://proton.me/pass/download/chrome
-Click&Clean : Deletes typed URLs, Cache, Cookies, your Download and Browsing History - https://chromewebstore.google.com/detail/click-and-clean
-
-Open Click&Clean interface -> Choose "High Profile" -> Run Cleaner
-Run Privacy Test https://www.hotcleaner.com/clickclean-app.html
+Dark Reader https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=de
+Proton Pas  https://proton.me/pass/download/chrome
 
 Topic: Speedtest Internet
 ------------------------------
@@ -180,8 +177,6 @@ Topic: Backup & Restore Data (Cloud)
 ------------------------------
 Use a end-to-end encrypted and secure cloud service like ProtonDrive - https://proton.me/drive
 iOS and Android Apps avaliable - https://apps.apple.com/de/developer/proton-ag/id979659484
-
-Another valid solution would be a shared USB-Drive on your router - https://www.sandisk.com/en-gb/products/ssd/external-ssd/wd-black-d30-game-drive-usb-3-2-ssd 
 
 Topic: AI / KI
 ------------------------------
