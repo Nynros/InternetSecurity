@@ -85,7 +85,7 @@ Settings -> Autofill and passwords -> Payment methods -> Disable all
 Topic: Brave Extensions
 ------------------------------
 Dark Reader https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=de
-Proton Pas  https://proton.me/pass/download/chrome
+Proton Pass  https://proton.me/pass/download/chrome
 
 Topic: Speedtest Internet
 ------------------------------
